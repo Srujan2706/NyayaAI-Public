@@ -1,0 +1,59 @@
+import os
+import json
+import chromadb
+
+# Create Chroma client
+client = chromadb.PersistentClient(path="vector_db/chroma_db")
+
+# Create collection
+collection = client.get_or_create_collection(
+    name="legal_documents"
+)
+
+input_folder = "vector_db"
+
+print("Loading embedding files...\n")
+
+for filename in os.listdir(input_folder):
+
+    if filename.endswith("_embeddings.json"):
+
+        print(f"Reading {filename}")
+
+        filepath = os.path.join(input_folder, filename)
+
+        with open(filepath, "r", encoding="utf-8") as f:
+
+            chunks = json.load(f)
+
+        for chunk in chunks:
+
+            collection.add(
+
+                ids=[str(chunk["chunk_id"])],
+
+                embeddings=[chunk["embedding"]],
+
+                documents=[chunk["text"]],
+
+                metadatas=[
+
+                    {
+
+                        "law": chunk["law"],
+
+                        "section": str(chunk["section"]),
+
+                        "chapter": chunk["chapter"],
+
+                        "title": chunk["title"]
+
+                    }
+
+                ]
+
+            )
+
+print("\n===============================")
+print("ChromaDB Created Successfully!")
+print("===============================")
