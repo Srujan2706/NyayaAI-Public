@@ -16,33 +16,82 @@ for filename in os.listdir(input_folder):
         with open(input_path, "r", encoding="utf-8") as f:
             text = f.read()
 
-        # Split whenever a new Section starts
-        chunks = re.split(r'(?=Section\s+\d+)', text)
+        print(f"\nProcessing: {filename}")
+
+        # ---------------------------------------
+        # Constitution Chunking
+        # ---------------------------------------
+
+        if filename.startswith("Constitution"):
+
+            # Split before every article number like:
+            # 1.
+            # 2.
+            # 21.
+            chunks = re.split(
+                r'(?=^\d+\.\s)',
+                text,
+                flags=re.MULTILINE
+            )
+
+        # ---------------------------------------
+        # BNS / BNSS / BSA Chunking
+        # ---------------------------------------
+
+        else:
+
+            chunks = re.split(
+                r'(?=Section\s+\d+)',
+                text,
+                flags=re.IGNORECASE
+            )
 
         data = []
 
-        for i, chunk in enumerate(chunks):
+        chunk_id = 1
+
+        for chunk in chunks:
 
             chunk = chunk.strip()
 
-            if len(chunk) > 20:
+            if len(chunk) < 100:
+                continue
 
-                data.append({
-                    "id": i + 1,
+            data.append(
+                {
+                    "id": chunk_id,
                     "document": filename,
                     "text": chunk
-                })
+                }
+            )
 
-        output_file = filename.replace("_clean.txt", "_chunks.json")
+            chunk_id += 1
+
+        output_file = filename.replace(
+            "_clean.txt",
+            "_chunks.json"
+        )
+
+        output_path = os.path.join(
+            output_folder,
+            output_file
+        )
 
         with open(
-            os.path.join(output_folder, output_file),
+            output_path,
             "w",
             encoding="utf-8"
         ) as f:
 
-            json.dump(data, f, indent=4, ensure_ascii=False)
+            json.dump(
+                data,
+                f,
+                indent=4,
+                ensure_ascii=False
+            )
 
-        print(f"✅ Chunked: {filename}")
+        print(f"✓ Created {len(data)} chunks")
 
-print("\n🎉 All documents chunked successfully!")
+print("\n====================================")
+print("All documents chunked successfully!")
+print("====================================")

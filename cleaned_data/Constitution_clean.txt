@@ -1,4 +1,3 @@
-THE CONSTITUTION OF INDIA
 WE, THE PEOPLE OF INDIA, having solemnly
 resolved to constitute India into a 1[SOVEREIGN
 SOCIALIST SECULAR DEMOCRATIC REPUBLIC] and
@@ -19,9 +18,9 @@ TO
 OURSELVES 
 THIS
 CONSTITUTION.
-1Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 2, for “SOVEREIGN
+
 DEMOCRATIC REPUBLIC” (w.e.f. 3-1-1977).
-2Subs. by s. 2, ibid., for “unity of the Nation” (w.e.f. 3-1-1977).
+
 Preamble.
 PART I
 THE UNION AND ITS TERRITORY
@@ -63,12 +62,10 @@ alteration of areas,
 boundaries or
 names of existing
 States.
-1Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 2, for cl. (2).
-2Subs. by s. 2, ibid., for sub-clause (b).
+
 3Article 2A was ins. by the Constitution (Thirty-fifth Amendment) Act, 1974, s. 2 (w.e.f.
 1-3-1975).
-4Subs. by the Constitution (Fifth Amendment) Act, 1955, s. 2, for the proviso.
-2
+
 or name of any of the States 1***, the Bill has been referred
 by the President to the Legislature of that State for
 expressing its views thereon within such period as may
@@ -94,7 +91,7 @@ deem necessary.
 (2) No such law as aforesaid shall be deemed to be
 an amendment of this Constitution for the purposes of
 article 368.
-THE CONSTITUTION OF INDIA
+
 (Part I.—The Union and its territory.—Arts. 3-4.)
 Laws made under
 articles 2 and 3 to
@@ -109,7 +106,7 @@ matters.
 1The words and letters “specified in Part A or Part B of the First Schedule” omitted by
 the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch.
 2Ins. by the Constitution (Eighteenth Amendment) Act, 1966, s. 2.
-3
+
 PART II
 CITIZENSHIP
 5. At the commencement of this Constitution, every
@@ -156,7 +153,7 @@ certain persons
 who have migrated
 to India from
 Pakistan.
-4
+
  7. Notwithstanding anything in articles 5 and 6, a
 person who has after the first day of March, 1947,
 migrated from the territory of India to the territory now
@@ -197,7 +194,7 @@ shall derogate from the power of Parliament to make
 any provision with respect to the acquisition and
 termination of citizenship and all other matters relating
 to citizenship.
-THE CONSTITUTION OF INDIA
+
 (Part II.—Citizenship.—Arts. 7—11.)
 Rights of
 citizenship of
@@ -205,7 +202,7 @@ certain persons of
 Indian origin
 residing outside
 India.
-5
+
 Rights of
 citizenship of
 certain migrants to
@@ -262,7 +259,7 @@ Laws inconsistent
 with or in
 derogation of the
 fundamental rights.
-6
+
 Equality before
 law.
 1Ins. by the Constitution (Twenty-fourth Amendment) Act, 1971, s. 2.
@@ -305,7 +302,7 @@ of, any employment or office under the State.
 (3) Nothing in this article shall prevent Parliament
 from making any law prescribing, in regard to a class or
 classes of employment or appointment to an office
-THE CONSTITUTION OF INDIA
+
 (Part III.—Fundamental Rights.—Arts. 15-16.)
 Prohibition of
 discrimination on
@@ -313,7 +310,7 @@ grounds of
 religion, race,
 caste, sex or place
 of birth.
-7
+
 Equality of
 opportunity in
 matters of public
@@ -361,22 +358,21 @@ punishable in accordance with law.
 distinction, shall be conferred by the State.
 (2) No citizen of India shall accept any title from any
 foreign State.
-THE CONSTITUTION OF INDIA
+
 (Part III.—Fundamental Rights.—Arts. 16—18.)
-8
-1Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch., for “under
+
 any State specified in the First Schedule or any local or other authority within its territory, any
 requirement as to residence within that State”.
 2Ins. by the Constitution (Seventy-seventh Amendment) Act, 1995, s. 2.
-3Subs. by the Constitution (Eighty-fifth Amendment) Act, 2001, s. 2, for certain words
+
 (w.e.f. 17-6-1995).
 4Ins. by the Constitution (Eighty-first Amendment) Act, 2000, s. 2 (w.e.f. 9-6-2000).
 Abolition of
 Untouchability.
 Abolition of titles.
-THE CONSTITUTION OF INDIA
+
 (Part III.—Fundamental Rights.—Arts. 18-19.)
-9
+
 (3) No person who is not a citizen of India shall,
 while he holds any office of profit or trust under the
 State, accept without the consent of the President any
@@ -421,7 +417,7 @@ regarding freedom
 of speech, etc.
 1Ins. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 2 (w.e.f. 20-6-1979).
 2Sub-clause (f) omitted by s. 2, ibid. (w.e.f. 20-6-1979).
-3Subs. by the Constitution (First Amendment) Act, 1951, s. 3, for cl. (2) (with retrospective
+
 effect).
 4Ins. by the Constitution (Sixteenth Amendment) Act, 1963, s. 2.
 integrity of India or] public order or morality, reasonable
@@ -463,12 +459,11 @@ the same offence more than once.
 to be a witness against himself.
 21. No person shall be deprived of his life or personal
 liberty except according to procedure established by law.
-THE CONSTITUTION OF INDIA
+
 (Part III.—Fundamental Rights.—Arts. 19—21.)
-10
-1Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 2, for ”sub-clauses
+
 (d), (e) and (f)” (w.e.f. 20-6-1979).
-2Subs. by the Constitution (First Amendment) Act, 1951, s. 3, for certain words.
+
 Protection in
 respect of
 conviction for
@@ -476,7 +471,7 @@ offences.
 Protection of life
 and personal
 liberty.
-*[21A. The State shall provide free and compulsory
+
 education to all children of the age of six to fourteen years
 in such manner as the State may, by law, determine.]
 22. (1) No person who is arrested shall be detained in
@@ -496,17 +491,16 @@ period without the authority of a magistrate.
 alien; or
 (b) to any person who is arrested or detained under
 any law providing for preventive detention.
-**(4) No law providing for preventive detention shall
+
 authorise the detention of a person for a longer period
 than three months unless—
 (a) an Advisory Board consisting of persons who
 are, or have been, or are qualified to be appointed
-THE CONSTITUTION OF INDIA
+
 (Part III.—Fundamental Rights.—Arts. 21A-22.)
-11
-*Ins by the Constitution (Eighty-sixth Amendment) Act, 2002, s. 2 (which is not yet in force, date
+
 to be notified later on).
-**Cl. (4) shall stand substituted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 3
+
 (which is yet not in force, date to be notified later on) as—
 “(4) No law providing for preventive detention shall authorise the detention of a
 person for a longer period than two months unless an Advisory Board constituted in
@@ -557,26 +551,25 @@ making any such order as is referred to in that clause to
 disclose facts which such authority considers to be against
 the public interest to disclose.
 (7) Parliament may by law prescribe—
-*(a) the circumstances under which, and the class
+
 or classes of cases in which, a person may be detained
 for a period longer than three months under any law
 providing for preventive detention without obtaining
 the opinion of an Advisory Board in accordance with
 the provisions of sub-clause (a) of clause (4);
-**(b) the maximum period for which any person
+
 may in any class or classes of cases be detained under
 any law providing for preventive detention; and
 (c) the procedure to be followed by an Advisory
 Board in an inquiry under ***[sub-clause (a) of clause
 (4)].
-THE CONSTITUTION OF INDIA
+
 (Part III.—Fundamental Rights.—Art. 22.)
-12
-*Sub-clause (a) shall stand omitted by the Constitution (Forty-fourth Amendment) Act,
+
 1978, s. 3 (which is yet not in force, date to be notified later on).
-**Sub-clause (b) shall stand relettered as sub-clause (a) by s. 3, ibid. (which is yet not in
+
 force, date to be notified later on).
-***The words, letter and figure in brackets shall stand substituted as “clause (4)” by
+
 s. 3, ibid. (which is yet not in force, date to be notified later on).
 Right against Exploitation
 23. (1) Traffic in human beings and begar and other
@@ -635,9 +628,9 @@ labour.
 Freedom to
 manage religious
 affairs.
-THE CONSTITUTION OF INDIA
+
 (Part III.—Fundamental Rights.—Arts. 23—26.)
-13
+
 (c) to own and acquire movable and immovable
 property; and
 (d) to administer such property in accordance with
@@ -699,9 +692,9 @@ administer
 educational
 institutions.
 1Ins. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 4 (w.e.f. 20-6-1979).
-THE CONSTITUTION OF INDIA
+
 (Part III.—Fundamental Rights.—Arts. 26—30.)
-14
+
 referred to in clause (1), the State shall ensure that the
 amount fixed by or determined under such law for the
 acquisition of such property is such as would not restrict
@@ -741,11 +734,11 @@ estates, etc.
 Amendment) Act, 1978, s. 5 (w.e.f. 20-6-1979).
 2Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 3 (w.e.f. 3-1-1977).
 3Ins. by the Constitution (First Amendment) Act, 1951, s. 4 (with retrospective effect).
-4Subs. by the Constitution (Fourth Amendment) Act, 1955, s. 3, for cl. (1) (with
+
 retrospective effect).
-THE CONSTITUTION OF INDIA
+
 (Part III.—Fundamental Rights.—Arts. 30—31A.)
-15
+
 (e) the extinguishment or modification of any
 rights accruing by virtue of any agreement, lease or
 licence for the purpose of searching for, or winning,
@@ -780,15 +773,14 @@ shall also include—
 (i) any jagir, inam or muafi or other similar grant
 and in the States of 4[Tamil Nadu] and Kerala,
 any janmam right;
-1Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 7, for “article 14,
+
 article 19 or article 31” (w.e.f. 20-6-1979).
 2Ins. by the Constitution (Seventeenth Amendment) Act, 1964, s. 2.
-3Subs. by s. 2, ibid., for sub-clause (a) (with retrospective effect).
-4Subs. by the Madras State (Alteration of Name) Act, 1968 (53 of 1968), s. 4, for
+
 “Madras”. (w.e..f. 14-1-1969).
-THE CONSTITUTION OF INDIA
+
 (Part III.—Fundamental Rights.—Art. 31A.)
-16
+
 (ii) any land held under ryotwari settlement;
 (iii) any land held or let for purposes of
 agriculture or for purposes ancillary thereto,
@@ -825,11 +817,11 @@ Regulations.
 1Ins. by the Constitution (Fourth Amendment) Act, 1955, s. 3 (with retrospective effect).
 2Ins. by the Constitution (First Amendment) Act, 1951, s. 5.
 3Ins. by the Constitution (Twenty-fifth Amendment) Act, 1971, s. 3 (w.e.f. 20-4-1972).
-4Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 4, for “the principles
+
 specified in clause (b) or clause (c) of article 39” (w.e.f. 3-1-1977). Section 4 has been declared
 invalid by the Supreme Court in Minerva Mills Ltd. and others vs. Union of India and others
 (1980) 2. S.C.C. 591.
-5Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 8, for “article 14,
+
 article 19 or article 31” (w.e.f. 20-6-1979).
 6In Kesavananda Bharati vs. The State of Kerala, (1973) Supp. S.C.R. 1, the Supreme Court
 held the provisions in italics to be invalid.
@@ -837,9 +829,9 @@ Saving of laws
 giving effect to
 certain directive
 principles.
-THE CONSTITUTION OF INDIA
+
 (Part III.—Fundamental Rights.—Arts. 31A—31C.)
-17
+
 containing a declaration that it is for giving effect to such
 policy shall be called in question in any court on the ground
 that it does not give effect to such policy:
@@ -877,9 +869,9 @@ rights conferred by
 this Part.
 1Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 5 (w.e.f. 3-1-1977).
 2Ins. by s. 6, ibid. (w.e.f. 1-2-1977).
-THE CONSTITUTION OF INDIA
+
 (Part III.—Fundamental Rights.—Arts. 31C—32A.)
-18
+
 1[33. Parliament may, by law, determine to what extent
 any of the rights conferred by this Part shall, in their
 application to,—
@@ -930,10 +922,9 @@ Legislation to give
 effect to the
 provisions of this
 Part.
-1Subs. by the Constitution (Fiftieth Amendment) Act, 1984, s. 2, for art. 33.
-THE CONSTITUTION OF INDIA
+
 (Part III.—Fundamental Rights.—Arts. 33—35.)
-19
+
 and Parliament shall, as soon as may be after the
 commencement of this Constitution, make laws
 for prescribing punishment for the acts referred
@@ -949,9 +940,9 @@ made therein under article 372, continue in force until
 altered or repealed or amended by Parliament.
 Explanation.—In this article, the expression “law in
 force” has the same meaning as in article 372.
-THE CONSTITUTION OF INDIA
+
 (Part III.—Fundamental Rights.—Art. 35.)
-20
+
 PART IV
 DIRECTIVE PRINCIPLES OF STATE POLICY
 36. In this Part, unless the context otherwise requires,
@@ -1001,7 +992,7 @@ State.
 1Art. 38 renumbered as cl. (1) thereof by the Constitution (Forty-fourth Amendment)
 Act, 1978, s. 9 (w.e.f. 20-6-1979).
 2Ins. by s. 9, ibid. (w.e.f 20-6-1979).
-21
+
 (e) that the health and strength of workers, men
 and women, and the tender age of children are not
 abused and that citizens are not forced by economic
@@ -1034,7 +1025,7 @@ and humane conditions of work and for maternity relief.
 legislation or economic organisation or in any other way,
 to all workers, agricultural, industrial or otherwise, work,
 a living wage, conditions of work ensuring a decent
-1Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 7, for cl. (f) (w.e.f.
+
 3-1-1977).
 2Ins. by s. 8, ibid. (w.e.f. 3-1-1977).
 Equal justice and
@@ -1052,10 +1043,10 @@ and maternity
 relief.
 Living wage, etc.,
 for workers.
-THE CONSTITUTION OF INDIA
+
 (Part IV.—Directive Principles of State Policy.—
 Arts. 39—43.)
-22
+
 standard of life and full enjoyment of leisure and social
 and cultural opportunities and, in particular, the State
 shall endeavour to promote cottage industries on an
@@ -1066,7 +1057,7 @@ in the management of undertakings, establishments or
 other organisations engaged in any industry.]
 44. The State shall endeavour to secure for the citizens
 a uniform civil code throughout the territory of India.
-*[45. The State shall endeavour to provide, within a
+
 period of ten years from the commencement of this
 Constitution, for free and compulsory education for all
 children until they complete the age of fourteen years.]
@@ -1098,7 +1089,7 @@ and compulsory
 education for
 children.
 1Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 9 (w.e.f. 3-1-1977).
-*Art. 45 shall stand substituted by the Constitution (Eighty-sixth Amendment) Act,
+
 2002, s. 3 (which is yet not in force, date to be notified later on) as—
 “45. Provision for early childhood care and education to children below the
 age of six years.—The State shall endeavour to provide early childhood care and education
@@ -1120,10 +1111,10 @@ health.
 Organisation of
 agriculture and
 animal husbandry.
-THE CONSTITUTION OF INDIA
+
 (Part IV.—Directive Principles of State Policy.—
 Arts. 43—48A.)
-23
+
 Protection and
 improvement of
 environment and
@@ -1152,7 +1143,7 @@ one another; and
 by arbitration.
 1Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 10 (w.e.f.
 3-1-1977).
-2Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 27, for “declared by
+
 Parliament by law”.
 Protection of
 monuments and
@@ -1162,10 +1153,10 @@ importance.
 Separation of
 judiciary from
 executive.
-THE CONSTITUTION OF INDIA
+
 (Part IV.—Directive Principles of State Policy.—
 Arts. 48A—51.)
-24
+
 Promotion of
 international peace
 and security.
@@ -1199,16 +1190,16 @@ violence;
 individual and collective activity so that the nation
 constantly rises to higher levels of endeavour and
 achievement;
-*[(k) who is a parent or guardian to provide
+
 opportunities for education to his child or, as the
 case may be, ward between the age of six and
 fourteen years.]
 Fundamental
 duties.
 1Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 11 (w.e.f. 3-1-1977).
-*Ins. by the Constitution (Eighty-sixth Amendment) Act, 2002, s. 4 (which is yet not in
+
 force, date to be notified later on).
-25
+
 PART V
 THE UNION
 CHAPTER I.—THE EXECUTIVE
@@ -1243,9 +1234,9 @@ India.
 Executive power
 of the Union.
 1Ins. by the Constitution (Seventieth Amendment) Act, 1992, s. 2 (w.e.f. 1-6-1995).
-*Now Puducherry, vide the Pondicherry (Alteration of Name) Act, 2006, s. 3 (w.e.f.
+
 1-10-2006).
-26
+
 Election of
 President.
 55. (1) As far as practicable, there shall be uniformity
@@ -1289,11 +1280,11 @@ Provided that the reference in this Explanation to the
 last preceding census of which the relevant figures have
 Manner of election
 of President.
-1Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 12, for the Explanation
+
 (w.e.f. 3-1-1977).
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Art. 55.)
-27
+
 been published shall, until the relevant figures for the
 first census taken after the year 1[2026] have been
 published, be construed as a reference to the 1971 census.]
@@ -1334,10 +1325,9 @@ election as
 President.
 Eligibility for re-
 election.
-1Subs. by the Constitution (Eighty-fourth Amendment) Act, 2001, s. 2, for “2000”.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 55—58.)
-28
+
 Explanation.—For the purposes of this article, a person
 shall not be deemed to hold any office of profit by reason
 only that he is the President or Vice-President of the
@@ -1379,9 +1369,9 @@ Oath or affirmation
 by the President.
 1The words “or Rajpramukh or Uparajpramukh” omitted by the Constitution (Seventh
 Amendment) Act, 1956, s. 29 and Sch.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 58—60.)
-29
+
 Constitution and the law and that I will devote myself to
 the service and well-being of the people of India”.
 61. (1) When a President is to be impeached for
@@ -1430,9 +1420,9 @@ and the term of
 office of person
 elected to fill
 casual vacancy.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 60—62.)
-30
+
 be entitled to hold office for the full term of five years from
 the date on which he enters upon his office.
 63. There shall be a Vice-President of India.
@@ -1483,11 +1473,11 @@ during the absence,
 of President.
 Election of Vice-
 President.
-1Subs. by the Constitution (Eleventh Amendment) Act, 1961, s. 2, for “members of both
+
 Houses of Parliament assembled at a joint meeting”.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 62—66.)
-31
+
 with the system of proportional representation by means
 of the single transferable vote and the voting at such
 election shall be by secret ballot.
@@ -1524,9 +1514,9 @@ Term of office of
 Vice-President.
 1The words “or Rajpramukh or Uparajpramukh” omitted by the Constitution (Seventh
 Amendment) Act, 1956, s. 29 and Sch.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 66—67.)
-32
+
 (b) a Vice-President may be removed from his office
 by a resolution of the Council of States passed by a
 majority of all the then members of the Council and
@@ -1552,7 +1542,7 @@ his office, make and subscribe before the President, or
 some person appointed in that behalf by him, an oath or
 affirmation in the following form, that is to say—
 “I, A.B., do swear in the name of God that I will bear true
-faith and allegiance to the Constitution of India as by
+faith and allegiance to  as by
 law established and that I will faithfully discharge the
 duty upon which I am about to enter.”
 70. Parliament may make such provisions as it thinks
@@ -1586,9 +1576,9 @@ Vice-President.
 Act, 1975, s. 2 (w.e.f. 10-8-1975) and the Constitution (Forty-fourth Amendment) Act, 1978,
 s. 10, to read as above (w.e.f. 20-6-1979).
  solemnly affirm
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 67—71.)
-33
+
 (2) If the election of a person as President or Vice-
 President is declared void by the Supreme Court, acts
 done by him in the exercise and performance of the
@@ -1631,9 +1621,9 @@ commute sentences
 in certain cases.
 1The words “or Rajpramukh “ omitted by the Constitution (Seventh Amendment) Act,
 1956, s. 29 and Sch.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 71—72.)
-34
+
 73. (1) Subject to the provisions of this Constitution,
 the executive power of the Union shall extend—
 (a) to the matters with respect to which Parliament
@@ -1675,12 +1665,12 @@ and advise
 President.
 1The words and letters “specified in Part A or Part B of the First Schedule” omitted by
 the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch.
-2Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 13, for cl. (1) (w.e.f.
+
 3-1-1977).
 3Ins. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 11 (w.e.f. 20-6-1979).
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 73—74.)
-35
+
 75. (1) The Prime Minister shall be appointed by the
 President and the other Ministers shall be appointed by
 the President on the advice of the Prime Minister.
@@ -1725,9 +1715,9 @@ to Ministers.
 1Ins. by the Constitution (Ninety-first Amendment) Act, 2003, s. 2.
 Attorney-General
 for India.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 75—76.)
-36
+
 matters, and to perform such other duties of a legal
 character, as may from time to time be referred or
 assigned to him by the President, and to discharge the
@@ -1755,8 +1745,7 @@ convenient transaction of the business of the Government
 of India, and for the allocation among Ministers of the
 said business.
  2*
-*
-*
+
  *
 78. It shall be the duty of the Prime Minister—
 (a) to communicate to the President all decisions
@@ -1781,9 +1770,9 @@ Extraordinary, 1958, Pt. II, Sec. 3(ii), p. 1315, as amended from time to time.
 2Cl. (4) was ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 14 (w.e.f.
 3-1-1977) and omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 12
 (w.e.f. 20-6-1979).
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 76—78.)
-37
+
 (c) if the President so requires, to submit for the
 consideration of the Council of Ministers any matter
 on which a decision has been taken by a Minister but
@@ -1822,17 +1811,16 @@ Constitution of
 Parliament.
 Composition of the
 Council of States.
-1Subs. by the Constitution (Thirty-fifth Amendment) Act, 1974, s. 3, for “The Council of
+
 States” (w.e.f. 1-3-1975).
 2The words “subject to the provisions of paragraph 4 of the Tenth Schedule” omitted by
 the Constitution (Thirty-sixth Amendment) Act, 1975, s. 5 (w.e.f. 26-4-1975).
 3Added by the Constitution (Seventh Amendment) Act, 1956, s. 3.
 4The words and letters “specified in Part A or Part B of the First Schedule” omitted by
 s. 3, ibid.
-5Subs. by s. 3, ibid., for “States specified in Part C of the First Schedule”.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 78—80.)
-38
+
 1[81. (1) 2[Subject to the provisions of article 331 3***],
 the House of the People shall consist of—
 (a) not more than 4[five hundred and thirty
@@ -1868,22 +1856,19 @@ census taken after the year 8[2026] have been published,
 Composition of the
 House of the
 People.
-1Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 4, for arts. 81 and 82.
-2Subs. by the Constitution (Thirty-fifth Amendment) Act, 1974 s. 4, for “Subject to the
+
 provisions of article 331” (w.e.f. 1-3-1975).
 3The words and figure “and paragraph 4 of the Tenth Schedule” omitted by the
 Constitution (Thirty-sixth Amendment) Act, 1975, s. 5 (w.e.f. 26-4-1975).
-4Subs. by the Goa, Daman and Diu Reorganisation Act, 1987 (18 of 1987), s. 63, for
+
 “five hundred and twenty-five members” (w.e.f. 30-5-1987).
-5Subs. by the Constitution (Thirty-first Amendment) Act, 1973, s. 2, for “twenty-five
+
 members”.
 6Ins. by s. 2, ibid.
 7Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 15 (w.e.f. 3-1-1977).
-8Subs. by the Constitution (Eighty-fourth Amendment) Act, 2001, s. 3, for “2000”.
-9Subs. by s. 3, ibid., for certain words.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Art. 81.)
-39
+
 (i) for the purposes of sub-clause (a) of clause (2)
 and the proviso to that clause, as a reference to the
 1971 census; and
@@ -1922,19 +1907,14 @@ Readjustment after
 each census.
 Duration of Houses
 of Parliament.
-1Subs. by the Constitution (Eighty-seventh Amendment) Act, 2003, s. 2, for “1991”.
+
 2Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 16 (w.e.f. 3-1-1977).
-3Subs. by the Constitution (Eighty-fourth Amendment) Act, 2001, s. 4, for “2000”.
-4Subs. by s. 4, ibid., for certain words.
-5Subs. by the Constitution (Eighty-seventh Amendment) Act, 2003, s. 3, for “1991”.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 81—83.)
-40
-1Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 13, for “six years”
+
 (w.e.f. 20-6-1979). The words “six years” were subs. for the original words “five years” by
 the Constitution (Forty-second Amendment) Act, 1976, s. 17 (w.e.f. 3-1-1977).
-2Subs. by the Constitution (Sixteenth Amendment) Act, 1963, s. 3, for cl. (a).
-3Subs. by the Constitution (First Amendment) Act, 1951, s. 6, for art. 85.
+
 (2) The House of the People, unless sooner dissolved,
 shall continue for 1[five years] from the date appointed
 for its first meeting and no longer and the expiration of
@@ -1981,9 +1961,9 @@ Right of President
 to address and
 send messages to
 Houses.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 83—86.)
-41
+
 (2) The President may send messages to either House
 of Parliament, whether with respect to a Bill then pending
 in Parliament or otherwise, and a House to which any
@@ -2022,7 +2002,7 @@ addressed to the Chairman, resign his office; and
 (c) may be removed from his office by a resolution
 of the Council passed by a majority of all the then
 members of the Council:
-1Subs. by the Constitution (First Amendment) Act, 1951, s. 7, for “every session”.
+
 2The words “and for the precedence of such discussion over other business of the House”
 omitted by s. 7, ibid.
 Special address by
@@ -2040,9 +2020,9 @@ resignation of, and
 removal from, the
 office of Deputy
 Chairman.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 86—90.)
-42
+
 Provided that no resolution for the purpose of clause
 (c) shall be moved unless at least fourteen days’ notice
 has been given of the intention to move the resolution.
@@ -2101,9 +2081,9 @@ The Speaker and
 Deputy Speaker
 of the House of
 the People.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 90—93.)
-43
+
 94. A member holding office as Speaker or Deputy
 Speaker of the House of the People—
 (a) shall vacate his office if he ceases to be a
@@ -2160,9 +2140,9 @@ for his removal
 from office is
 under
 consideration.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 94—96.)
-44
+
 such sitting as they apply in relation to a sitting from
 which the Speaker, or, as the case may be, the Deputy
 Speaker, is absent.
@@ -2207,9 +2187,9 @@ and Deputy
 Speaker.
 Secretariat of
 Parliament.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 96—98.)
-45
+
 Conduct of Business
 99. Every member of either House of Parliament shall,
 before taking his seat, make and subscribe before the
@@ -2254,9 +2234,9 @@ notwithstanding
 vacancies and
 quorum.
 Vacation of seats.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 99—101.)
-46
+
 (2) No person shall be a member both of Parliament
 and of a House of the Legislature of a State 1***, and if
 a person is chosen a member both of Parliament and of
@@ -2288,17 +2268,17 @@ Provided that in computing the said period of sixty
 days no account shall be taken of any period during
 1The words and letters “specified in Part A or Part B of the First Schedule” omitted by
 the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch.
-2Subs. by s. 29 and Sch., ibid., “such a State”.
+
 3See the Prohibition of Simultaneous Membership Rules, 1950, published with the Ministry
 of Law Notification No. F. 46/50-C, dated the 26th January, 1950, Gazette of India,
 Extraordinary, p. 678.
-4Subs. by the Constitution (Fifty-second Amendment) Act, 1985, s. 2, for “clause (1) of
+
 article 102” (w.e.f. 1-3-1985).
-5Subs. by the Constitution (Thirty-third Amendment) Act, 1974, s. 2, for sub-clause (b).
+
 6Ins. by s. 2, ibid.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Art. 101.)
-47
+
 which the House is prorogued or is adjourned for more
 than four consecutive days.
 102. (1) A person shall be disqualified for being chosen
@@ -2336,15 +2316,15 @@ Decision on
 questions as to
 disqualifications of
 members.
-1Subs. by the Constitution (Fifty-second Amendment) Act, 1985, s. 3, for “(2) For the
+
 purposes of this article” (w.e.f. 1-3-1985)
 2Ins. by s. 3, ibid. (w.e.f. 1-3-1985).
 3Art. 103 has been successively subs. by the Constitution (Forty-second Amendment)
 Act, 1976, s. 20 (w.e.f. 3-1-1977) and the Constitution (Forty-fourth Amendment) Act,
 1978, s. 14 to read as above (w.e.f. 20-6-1979).
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 101—103.)
-48
+
 (2) Before giving any decision on any such question,
 the President shall obtain the opinion of the Election
 Commission and shall act according to such opinion.]
@@ -2393,11 +2373,11 @@ of Parliament and
 of the members
 and committees
 thereof.
-1Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 15, for certain words
+
 (w.e.f. 20-6-1979).
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 103—105.)
-49
+
 take part in the proceedings of, a House of Parliament or
 any committee thereof as they apply in relation to members
 of Parliament.
@@ -2442,9 +2422,9 @@ passing of Bills.
 Joint sitting of both
 Houses in certain
 cases.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 105—108.)
-50
+
 (c) more than six months elapse from the date of
 the reception of the Bill by the other House without
 the Bill being passed by it,
@@ -2481,9 +2461,9 @@ amendments and returned to the House in which it
 originated, no amendment shall be proposed to the
 Bill other than such amendments (if any) as are made
 necessary by the delay in the passage of the Bill;
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Art. 108.)
-51
+
 (b) if the Bill has been so passed and returned,
 only such amendments as aforesaid shall be proposed
 to the Bill and such other amendments as are relevant
@@ -2521,9 +2501,9 @@ the Council of States.
 (5) If a Money Bill passed by the House of the People
 and transmitted to the Council of States for its
 recommendations is not returned to the House of the
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 108-109.)
-52
+
 Special procedure
 in respect of
 Money Bills.
@@ -2567,9 +2547,9 @@ remission, alteration or regulation of any tax by any local
 authority or body for local purposes.
 Definition of
 “Money Bills”.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 109-110.)
-53
+
 (3) If any question arises whether a Bill is a Money
 Bill or not, the decision of the Speaker of the House of
 the People thereon shall be final.
@@ -2609,9 +2589,9 @@ the Consolidated Fund of India; and
 Assent to Bills.
 Annual financial
 statement.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 110—112.)
-54
+
 (b) the sums required to meet other expenditure
 proposed to be made from the Consolidated Fund of
 India,
@@ -2645,11 +2625,11 @@ Dominion of India];
 (e) the salary, allowances and pension payable to
 or in respect of the Comptroller and Auditor-General
 of India;
-1Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch., for “a
+
 Province corresponding to a State specified in Part A of the First Schedule”.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Art. 112.)
-55
+
 (f) any sums required to satisfy any judgment,
 decree or award of any court or arbitral tribunal;
 (g) any other expenditure declared by this
@@ -2694,9 +2674,9 @@ respect to
 estimates.
 Appropriation
 Bills.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 112—114.)
-56
+
 (3) Subject to the provisions of articles 115 and 116,
 no money shall be withdrawn from the Consolidated
 Fund of India except under appropriation made by law
@@ -2741,9 +2721,9 @@ Votes on account,
 votes of credit
 and exceptional
 grants.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 114—116.)
-57
+
 year pending the completion of the procedure
 prescribed in article 113 for the voting of such grant
 and the passing of the law in accordance with the
@@ -2785,9 +2765,9 @@ fees for licences or fees for services rendered, or by reason
 that it provides for the imposition, abolition, remission,
 Special provisions
 as to financial Bills.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 116-117.)
-58
+
 alteration or regulation of any tax by any local authority
 or body for local purposes.
 (3) A Bill which, if enacted and brought into
@@ -2832,9 +2812,9 @@ of procedure in
 Parliament in
 relation to financial
 business.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 117—119.)
-59
+
 effect in relation to Parliament under clause (2) of that
 article, such provision shall prevail.
 120. (1) Notwithstanding anything in Part XVII, but
@@ -2886,9 +2866,9 @@ to promulgate
 Ordinances during
 recess of
 Parliament.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 119—123.)
-60
+
 (2) An Ordinance promulgated under this article shall
 have the same force and effect as an Act of Parliament,
 but every such Ordinance—
@@ -2932,9 +2912,9 @@ Supreme Court.
 s. 16 (w.e.f. 20-6-1979).
 2Now “twenty-five”, vide the Supreme Court (Number of Judges) Amendment Act,
 1986 (22 of 1986), s. 2.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 123-124.)
-61
+
 shall always be consulted:
 Provided further that—
 (a) a Judge may, by writing under his hand
@@ -2971,9 +2951,9 @@ supported by a majority of the total membership of
 that House and by a majority of not less than two-
 thirds of the members of that House present and
 1Ins. by the Constitution (Fifteenth Amendment) Act, 1963, s. 2.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Art. 124.)
-62
+
 voting has been presented to the President in the same
 session for such removal on the ground of proved
 misbehaviour or incapacity.
@@ -3008,15 +2988,15 @@ after his appointment.
 126. When the office of Chief Justice of India is vacant
 or when the Chief Justice is, by reason of absence or
 otherwise, unable to perform the duties of his office,
-1Subs. by the Constitution (Fifty-fourth Amendment) Act, 1986, s. 2, for cl. (1) (w.e.f.
+
 1-4-1986).
 Salaries, etc., of
 Judges.
 Appointment of
 acting Chief Justice.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 124—126.)
-63
+
 the duties of the office shall be performed by such one of
 the other Judges of the Court as the President may appoint
 for the purpose.
@@ -3060,9 +3040,9 @@ Attendance of
 retired Judges at
 sittings of the
 Supreme Court.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 126—128.)
-64
+
 129. The Supreme Court shall be a court of record
 and shall have all the powers of such a court including
 the power to punish for contempt of itself.
@@ -3110,11 +3090,11 @@ Supreme Court in
 appeals from High
 Courts in certain
 cases.
-1Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 5, for the proviso.
+
 2Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 23 (w.e.f. 1-2-1977).
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 129—132.)
-65
+
 other proceeding, 1[if the High Court certifies under article
 134A] that the case involves a substantial question of
 law as to the interpretation of this Constitution.
@@ -3151,17 +3131,17 @@ Supreme Court in
 appeals from High
 Courts in regard to
 civil matters.
-1Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 17, for “if the High
+
 Court certifies” (w.e.f. 1-8-1979).
 2Cl. (2) omitted by s. 17, ibid. (w.e.f. 1-8-1979).
 3Certain words omitted by s. 17, ibid. (w.e.f. 1-8-1979).
-4Subs. by the Constitution (Thirtieth Amendment) Act, 1972, s. 2, for cl. (1) (w.e.f.
+
 27-2-1973).
-5Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 18, for “if the High
+
 Court certifies—” (w.e.f. 1-8-1979).
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 132-133.)
-66
+
 134. (1) An appeal shall lie to the Supreme Court
 from any judgment, final order or sentence in a criminal
 proceeding of a High Court in the territory of India if
@@ -3204,12 +3184,12 @@ matters.
 Certificate for
 appeal to the
 Supreme Court.
-1Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 19, for “certifies”
+
 (w.e.f. 1-8-1979).
 2Ins. by s. 20, ibid. (w.e.f. 1-8-1979).
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 134-134A.)
-67
+
 referred to in clause (1) of article 132, or clause (1) of
 article 133 or, as the case may be, sub-clause (c) of clause
 (1) of article 134, may be given in respect of that case.]
@@ -3270,9 +3250,9 @@ the Supreme
 Court of powers
 to issue certain
 writs.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 134A—139.)
-68
+
 1[139A. 2[(1) Where cases involving the same or
 substantially the same questions of law are pending
 before the Supreme Court and one or more High Courts
@@ -3312,7 +3292,7 @@ cases.
 Ancillary powers of
 Supreme Court.
 1Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 24 (w.e.f. 1-2-1977).
-2Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 21, for cl. (1) (w.e.f.
+
 1-8-1979).
 Law declared by
 Supreme Court to be
@@ -3322,9 +3302,9 @@ decrees and orders
 of Supreme Court
 and orders as to
 discovery, etc.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 139A—142.)
-69
+
 order so made shall be enforceable throughout the
 territory of India in such manner as may be prescribed
 by or under any law made by Parliament and, until
@@ -3366,11 +3346,11 @@ Court.
 1See the Supreme Court (Decrees and Orders) Enforcement Order, 1954 (C. O. 47).
 2The words , brackets and figures “clause (i) of” omitted by the Constitution (Seventh
 Amendment) Act, 1956, s. 29 and Sch.
-3Subs. by s. 29 and Sch., ibid., for “said clause”.
+
 4Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 25 (w.e.f. 1-2-1977).
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 142—144A.)
-70
+
 145. (1) Subject to the provisions of any law made by
 Parliament, the Supreme Court may from time to time,
 with the approval of the President, make rules for
@@ -3406,11 +3386,11 @@ delay;
 to in clause (1) of article 317.
 Rules of Court, etc.
 1Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 26 (w.e.f. 1-2-1977).
-2Subs. by the Constitution (Forty-third Amendment) Act, 1977, s. 6, for “articles 131A
+
 and 139A” (w.e.f. 13-4-1978).
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Art. 145.)
-71
+
 (2) Subject to the 1[provisions of 2*** clause (3)], rules
 made under this article may fix the minimum number of
 Judges who are to sit for any purpose, and may provide
@@ -3446,19 +3426,19 @@ delivering a dissenting judgment or opinion.
 Supreme Court shall be made by the Chief Justice of
 India or such other Judge or officer of the Court as he
 may direct:
-1Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 26, for “provisions
+
 of clause (3)” (w.e.f. 1-2-1977).
 2Certain words omitted by the Constitution (Forty-third Amendment) Act, 1977, s. 6
 (w.e.f. 13-4-1978).
-3Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 26, for “The minimum
+
 number” (w.e.f. 1-2-1977).
 Officers and
 servants and the
 expenses of the
 Supreme Court.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 145-146.)
-72
+
 Provided that the President may by rule require that
 in such cases as may be specified in the rule, no person
 not already attached to the Court shall be appointed to
@@ -3500,9 +3480,9 @@ Interpretation.
 Comptroller and
 Auditor-General
 of India.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 146—148.)
-73
+
 (2) Every person appointed to be the Comptroller and
 Auditor-General of India shall, before he enters upon
 his office, make and subscribe before the President, or
@@ -3545,9 +3525,9 @@ Duties and
 powers of the
 Comptroller and
 Auditor-General.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 148-149.)
-74
+
 of the States as were conferred on or exercisable by the
 Auditor-General of India immediately before the
 commencement of this Constitution in relation to the
@@ -3565,9 +3545,9 @@ to be laid before each House of Parliament.
 General of India relating to the accounts of a State shall
 be submitted to the Governor 3*** of the State, who shall
 cause them to be laid before the Legislature of the State.
-1Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 27, for art. 150
+
 (w.e.f. 1-4-1977).
-2Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 22, for “after
+
 consultation with” (w.e.f. 20-6-1979).
 3The words “or Rajpramukh” omitted by the Constitution (Seventh Amendment) Act,
 1956, s. 29 and Sch.
@@ -3575,9 +3555,9 @@ Form of accounts
 of the Union and
 of the States.
 Audit reports.
-THE CONSTITUTION OF INDIA
+
 (Part V.—The Union.—Arts. 149—151.)
-75
+
 PART VI
 THE STATES 1***
 CHAPTER I.—GENERAL
@@ -3606,7 +3586,7 @@ the President by warrant under his hand and seal.
 156. (1) The Governor shall hold office during the
 pleasure of the President.
 Definition.
-76
+
 Governors of
 States.
 Executive power
@@ -3617,7 +3597,7 @@ Term of office of
 Governor.
 1The words “IN PART A OF THE FIRST SCHEDULE” omitted by the Constitution
 (Seventh Amendment) Act, 1956, s. 29 and Sch.
-2Subs. by s. 29 and Sch., ibid., for “means a State specified in Part A of the First
+
 Schedule”.
 3Added by s. 6, ibid.
 (2) The Governor may, by writing under his hand
@@ -3668,9 +3648,9 @@ Governor's office.
 Oath or affirmation
 by the Governor.
 1Ins. by the Constitution (Seventh Amendment) Act, 1956, s. 7.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 156—159.)
-77
+
 Judge of that Court available, an oath or affirmation in
 the following form, that is to say—
 “I, A. B., do swear in the name of God that I will faithfully
@@ -3730,9 +3710,9 @@ Council of
 Ministers to aid
 and advise
 Governor.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 159—163.)
-78
+
 (3) The question whether any, and if so what, advice
 was tendered by Ministers to the Governor shall not be
 inquired into in any court.
@@ -3778,12 +3758,11 @@ of such period, till the date on which he is declared
 elected, whichever is earlier.]
 Other provisions
 as to Ministers.
-1Subs. by the Constitution (Ninety-fourth Amendment) Act, 2006, s. 2, for “Bihar”.
+
 2Ins. by the Constitution (Ninety-first Amendment) Act, 2003, s. 3.
-*7-1-2004, vide S.O. 21(E), dated 7-1-2004.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 163-164.)
-79
+
 (2) The Council of Ministers shall be collectively
 responsible to the Legislative Assembly of the State.
 (3) Before a Minister enters upon his office, the
@@ -3829,9 +3808,9 @@ Conduct of
 business of the
 Government of a
 State.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 164—166.)
-80
+
 (3) The Governor shall make rules for the more
 convenient transaction of the business of the Government
 of the State, and for the allocation among Ministers of
@@ -3882,16 +3861,16 @@ Act, 1956, for the insertion of the words “Madhya Pradesh” in this sub-claus
 5The words “Tamil Nadu,” omitted by Tamil Nadu Legislative Council (Abolition) Act,
 1986 (40 of 1986), s. 4 (w.e.f. 1-11-1986).
 6Ins. by the Bombay Reorganisation Act, 1960 (11 of 1960), s. 20 (w.e.f. 1-5-1960).
-7Subs. by the Mysore State (Alteration of Name) Act, 1973 (31 of 1973), s. 4, for
+
 “Mysore” (w.e.f 1-11-1973), which was inserted by the Constitution (Seventh Amendment)
 Act, 1956, s. 8(1).
 8The word “Punjab,” omitted by the Punjab Legislative Council (Abolition) Act, 1969
 (46 of 1969), s. 4 (w.e.f. 7-1-1970).
-9Subs. by the West Bengal Legislative Council (Abolition) Act, 1969 (20 of 1969), s. 4, for
+
 “Uttar Pradesh and West Bengal“ (w.e.f. 1-8-1969).
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 166—168.)
-81
+
 (2) Where there are two Houses of the Legislature of
 a State, one shall be known as the Legislative Council
 and the other as the Legislative Assembly, and where
@@ -3934,15 +3913,14 @@ creation of
 Legislative
 Councils in
 States.
-1Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 9, for art. 170.
-2Subs. by the Constitution (Forty-second Amendment) Act, 1976 , s. 29, for the Explanation
+
 (w.e.f. 3-1-1977).
 Composition of
 the Legislative
 Assemblies.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 168—170.)
-82
+
 Provided that the reference in this Explanation to the
 last preceding census of which the relevant figures have
 been published shall, until the relevant figures for the
@@ -3980,19 +3958,18 @@ members in the Legislative Assembly of that State:
  Provided that the total number of members in the
 Legislative Council of a State shall in no case be less
 than forty.
-1Subs. by the Constitution (Eighty-fourth Amendment) Act, 2001, s. 5, for “2000” and
+
 “1971” respectively.
-2Subs. by the Constitution (Eighty-seventh Amendment) Act, 2003, s. 4, for “1991”.
+
 3Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 29 (w.e.f.
 3-1-1977).
-4Subs. by the Constitution (Eighty-fourth Amendment) Act, 2001, s. 5, for certain words.
-5Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 10, for “one-fourth”.
+
 Composition of
 the Legislative
 Councils.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 170-171.)
-83
+
 (2) Until Parliament by law otherwise provides, the
 composition of the Legislative Council of a State shall be
 as provided in clause (3).
@@ -4040,9 +4017,9 @@ proportional representation by means of the single
 transferable vote.
 (5) The members to be nominated by the Governor
 under sub-clause (e) of clause (3) shall consist of persons
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Art. 171.)
-84
+
 having special knowledge or practical experience in
 respect of such matters as the following, namely:—
 Literature, science, art, co-operative movement and
@@ -4081,13 +4058,12 @@ Legislatures.
 Qualification for
 membership of the
 State Legislature.
-1Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 24, for “six years”
+
 (w.e.f. 6-9-1979). The words “six years” were subs. for the original words “five years” by the
 Constitution (Forty-second Amendment) Act, 1976, s. 30 (w.e.f. 3-1-1977).
-2Subs. by the Constitution (Sixteenth Amendment) Act, 1963, s. 4, for cl. (a).
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 171—173.)
-85
+
 1[174. (1) The Governor shall from time to time
 summon the House or each House of the Legislature of
 the State to meet at such time and place as he thinks fit,
@@ -4134,17 +4110,16 @@ the House or
 Houses.
 Special address
 by the Governor.
-1Subs. by the Constitution (First Amendment) Act, 1951, s. 8, for art. 174.
-2Subs. by s. 9, ibid. for “every session”.
+
 3The words “and for the precedence of such discussion over other business of the House”
 omitted by s. 9, ibid.
 Rights of Ministers
 and Advocate-
 General as respects
 the Houses.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 174—177.)
-86
+
 Council, both Houses, and to speak in, and otherwise to
 take part in the proceedings of, any committee of the
 Legislature of which he may be named a member, but
@@ -4197,9 +4172,9 @@ perform the
 duties of the
 office of, or to
 act as, Speaker.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 177—180.)
-87
+
 (2) During the absence of the Speaker from any
 sitting of the Assembly the Deputy Speaker or, if he is
 also absent, such person as may be determined by the
@@ -4255,9 +4230,9 @@ removal from, the
 offices of Chairman
 and Deputy
 Chairman.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 180—183.)
-88
+
 Deputy Chairman, and if such member is the Deputy
 Chairman, to the Chairman, resign his office; and
 (c) may be removed from his office by a resolution
@@ -4310,9 +4285,9 @@ resolution for his
 removal from office
 is under
 consideration.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 183—185.)
-89
+
 186. There shall be paid to the Speaker and the Deputy
 Speaker of the Legislative Assembly, and to the Chairman
 and the Deputy Chairman of the Legislative Council,
@@ -4369,9 +4344,9 @@ to act
 notwithstanding
 vacancies and
 quorum.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 186—189.)
-90
+
 The Speaker or Chairman, or person acting as such,
 shall not vote in the first instance, but shall have and
 exercise a casting vote in the case of an equality of votes.
@@ -4413,9 +4388,9 @@ State—
 of Law Notification No. F. 46/50-C, dated the 26th January, 1950, Gazette of India,
 Extraordinary, p. 678.
 Vacation of seats.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 189—190.)
-91
+
 (a) becomes subject to any of the disqualifications
 mentioned in 1[clause (1) or clause (2) of article 191];
 or
@@ -4448,16 +4423,16 @@ declared by the Legislature of the State by law not to
 disqualify its holder;
 (b) if he is of unsound mind and stands so
 declared by a competent court;
-1Subs. by the Constitution (Fifty-second Amendment) Act, 1985, s. 4, for “clause (1) of
+
 article 191” (w.e.f. 1-3-1985).
-2Subs. by the Constitution (Thirty-third Amendment) Act, 1974, s. 3, for sub-clause (b).
+
 3Ins. by s. 3, ibid.
 Disqualifications
 for 
 membership.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 190-191.)
-92
+
 (c) if he is an undischarged insolvent;
 (d) if he is not a citizen of India, or has voluntarily
 acquired the citizenship of a foreign State, or is under
@@ -4490,7 +4465,7 @@ before he has complied with the requirements of article
 is disqualified for membership thereof, or that he is
 prohibited from so doing by the provisions of any law
 made by Parliament or the Legislature of the State, he
-1Subs. by the Constitution (Fifty-second Amendment) Act, 1985, s. 5, for “(2) For the
+
 purposes of this article” (w.e.f. 1-3-1985).
 2Ins. by s. 5, ibid. (w.e.f. 1-3-1985).
 3Art. 192 has been successively subs. by the Constitution (Forty-second Amendment)
@@ -4507,9 +4482,9 @@ affirmation under
 article 188 or when
 not qualified or
 when disqualified.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 191—193.)
-93
+
 shall be liable in respect of each day on which he so sits
 or votes to a penalty of five hundred rupees to be
 recovered as a debt due to the State.
@@ -4551,14 +4526,14 @@ of Legislatures and
 of the members
 and committees
 thereof.
-1Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 26, for certain words
+
 (w.e.f. 20-6-1979).
 Salaries and
 allowances of
 members.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 193—195.)
-94
+
 until provision in that respect is so made, salaries and
 allowances at such rates and upon such conditions as
 were immediately before the commencement of this
@@ -4604,9 +4579,9 @@ powers of
 Legislative Council
 as to Bills other
 than Money Bills.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 195—197.)
-95
+
 the Legislative Assembly may, subject to the rules
 regulating its procedure, pass the Bill again in the same
 or in any subsequent session with or without such
@@ -4647,9 +4622,9 @@ recommendations of the Legislative Council, the Money
 Special procedure
 in respect of
 Money Bills.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 197—198.)
-96
+
 Bill shall be deemed to have been passed by both Houses
 with the amendments recommended by the Legislative
 Council and accepted by the Legislative Assembly.
@@ -4689,9 +4664,9 @@ the State, or the increasing of the amount of any
 such expenditure;
 Definition of
 “Money Bills”.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 198-199.)
-97
+
 (f) the receipt of money on account of the
 Consolidated Fund of the State or the public account
 of the State or the custody or issue of such money; or
@@ -4730,9 +4705,9 @@ Bill or any specified provisions thereof and, in particular,
 will consider the desirability of introducing any such
 amendments as he may recommend in his message and,
 Assent to Bills.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 199-200.)
-98
+
 when a Bill is so returned, the House or Houses shall
 reconsider the Bill accordingly, and if the Bill is passed
 again by the House or Houses with or without
@@ -4775,9 +4750,9 @@ Bills reserved for
 consideration.
 Annual financial
 statement.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 200—202.)
-99
+
 (b) the sums required to meet other expenditure
 proposed to be made from the Consolidated Fund of
 the State;
@@ -4820,9 +4795,9 @@ Procedure in
 Legislature with
 respect to
 estimates.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 202-203.)
-100
+
 (3) No demand for a grant shall be made except on
 the recommendation of the Governor.
 204. (1) As soon as may be after the grants under
@@ -4862,9 +4837,9 @@ Appropriation Bills.
 Supplementary,
 additional or
 excess grants.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 203—205.)
-101
+
 (b) if any money has been spent on any service
 during a financial year in excess of the amount
 granted for that service and for that year,
@@ -4906,9 +4881,9 @@ authorise by law the withdrawal of moneys from the
 Votes on account,
 votes of credit and
 exceptional grants.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 205-206.)
-102
+
 Consolidated Fund of the State for the purposes for which
 the said grants are made.
 (2) The provisions of articles 203 and 204 shall have
@@ -4951,9 +4926,9 @@ business.
 Special provisions
 as to financial Bills.
 Rules of procedure.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 206—208.)
-103
+
 (2) Until rules are made under clause (1), the rules of
 procedure and standing orders in force immediately
 before the commencement of this Constitution with
@@ -5002,9 +4977,9 @@ financial business.
 Language to be
 used in the
 Legislature.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 208—210.)
-104
+
 of a period of fifteen years from the commencement of
 this Constitution, have effect as if the words “or in
 English” were omitted therefrom:
@@ -5043,12 +5018,12 @@ inquire into
 proceedings of the
 Legislature.
 1Ins. by the State of Himachal Pradesh Act, 1970 (53 of 1970), s. 46 (w.e.f. 25-1-1971).
-2Subs. by the North-Eastern Areas (Reorganisation) Act, 1971 (81 of 1971), s. 71, for
+
 “Legislature of the State of Himachal Pradesh” (w.e.f. 21-1-1972).
 3Ins. by the State of Mizoram Act, 1986 (34 of 1986), s. 39 (w.e.f. 20-2-1987).
-4Subs. by the State of Arunachal Pradesh Act, 1986 (69 of 1986), s. 42, for “Legislature
+
 of the State of Mizoram” (w.e.f. 20-2-1987).
-5Subs. by the Goa, Daman and Diu Reorganisation Act, 1987 (18 of 1987), s. 63, for
+
 “Arunachal Pradesh and Mizoram” (w.e.f. 30-5-1987).
 Power of
 Governor to
@@ -5056,9 +5031,9 @@ promulgate
 Ordinances during
 recess of
 Legislature.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 210—213.)
-105
+
 of the Legislature are in session, the Governor is satisfied
 that circumstances exist which render it necessary for
 him to take immediate action, he may promulgate
@@ -5096,9 +5071,9 @@ resolution being agreed to by the Council; and
 (b) may be withdrawn at any time by the
 Governor.
 Explanation.—Where the Houses of the Legislature
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Art. 213.)
-106
+
 of a State having a Legislative Council are summoned to
 reassemble on different dates, the period of six weeks
 shall be reckoned from the later of those dates for the
@@ -5141,9 +5116,9 @@ s. 27 (w.e.f. 20-6-1979).
 1956, s. 29 and Sch.
 3Cls. (2) and (3) omitted by s. 29 and Sch., ibid.
 4Proviso omitted by s. 11, ibid.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 213—216.)
-107
+
 217. (1) Every Judge of a High Court shall be appointed
 by the President by warrant under his hand and seal
 after consultation with the Chief Justice of India, the
@@ -5178,17 +5153,17 @@ Appointment and
 conditions of the
 office of a Judge
 of a High Court.
-1Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 12, for “shall hold office
+
 until he attains the age of sixty years”.
-2Subs. by the Constitution (Fifteenth Amendment) Act, 1963, s. 4, for “sixty years”.
+
 3The words “in any State specified in the First Schedule” omitted by the Constitution
 (Seventh Amendment) Act, 1956, s. 29 and Sch.
 4The word “or” and sub-clause (c) were ins. by the Constitution (Forty-second
 Amendment) Act, 1976, s. 36 (w.e.f. 3-1-1977) and omitted by the Constitution (Forty-
 fourth Amendment) Act, 1978, s. 28 (w.e.f. 20-6-1979).
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Art. 217.)
-108
+
 Explanation.—For the purposes of this clause—
 1[(a) in computing the period during which a
 person has held judicial office in the territory of India,
@@ -5230,13 +5205,13 @@ Court to High
 Courts.
 1Ins. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 28 (w.e.f. 20-6-1979).
 2Cl. (a) re-lettered as cl. (aa) by s. 28, ibid. (w.e.f. 20-6-1979).
-3Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 36, for “has held
+
 judicial office” (w.e.f. 3-1-1977).
 4Ins. by the Constitution (Fifteenth Amendment) Act, 1963, s. 4 (with retrospective
 effect).
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 217-218.)
-109
+
 219. Every person appointed to be a Judge of a High
 Court 1*** shall, before he enters upon his office, make
 and subscribe before the Governor of the State, or some
@@ -5283,17 +5258,17 @@ High Court to
 another.
 1The words “in a State“ omitted by the Constitution (Seventh Amendment) Act, 1956,
 s. 29 and Sch.
-2Subs. by s. 13, ibid., for art. 220.
+
 31st November, 1956.
-4Subs. by the Constitution (Fifty-fourth Amendment) Act, 1986, s. 3, for cl. (1) (w.e.f.
+
 1-4-1986).
 5The words “within the territory of India“ omitted by the Constitution (Seventh
 Amendment) Act, 1956, s. 14.
 Salaries, etc., of
 Judges.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 219—222.)
-110
+
 1[(2) When a Judge has been or is so transferred, he
 shall, during the period he serves, after the commencement
 of the Constitution (Fifteenth Amendment) Act, 1963, as
@@ -5332,8 +5307,7 @@ Appointment of
 acting Chief Justice.
 1Ins. by the Constitution (Fifteenth Amendment) Act, 1963, s. 5. Original cl. (2) was
 omitted by the Constitution (Seventh Amendment) Act, 1956, s. 14.
-2Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 15, for art. 224.
-3Subs. by the Constitution (Fifteenth Amendment) Act, 1963, s. 6, for “sixty years”.
+
 4Ins. by s. 7, ibid.
 Appointment of
 additional and
@@ -5342,9 +5316,9 @@ Appointment of
 retired Judges at
 sittings of High
 Courts.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 222—224A.)
-111
+
 request any person who has held the office of a Judge of
 that Court or of any other High Court to sit and act as a
 Judge of the High Court for that State, and every such
@@ -5388,14 +5362,14 @@ certain writs.
 1Ins. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 29, (w.e.f.
 20-6-1979). Original proviso was omitted by the Constitution (Forty-second Amendment)
 Act, 1976, s. 37 (w.e.f. 1-2-1977).
-2Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 38, for art. 226
+
 (w.e.f. 1-2-1977).
 3The words, figures and letters “but subject to the provisions of article 131A and article
 226A” omitted by the Constitution (Forty-third Amendment) Act, 1977, s. 7 (w.e.f.
 13-4-1978).
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 224A—226.)
-112
+
 orders or writs, including 1[writs in the nature of habeas
 corpus, mandamus, prohibition, quo warranto and certiorari,
 or any of them, for the enforcement of any of the rights
@@ -5430,14 +5404,13 @@ afterwards on which the High Court is open; and if the
 application is not so disposed of, the interim order shall,
 on the expiry of that period, or, as the case may be, the
 expiry of the said next day, stand vacated.]
-1Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 30, for the portion
+
 beginning with the words “writs in the nauture of habeas corpus, mandamus, prohibition, quo
 warranto and certiorari, or any of them” and ending with the words “such illegality has
 resulted in substantial failure of justice” (w.e.f. 1-8-1979).
-2Subs. by s. 30, ibid., for cls. (3), (4), (5) and (6) (w.e.f. 1-8-1979).
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 226.)
-113
+
 1[(4) The power conferred on a High Court by this
 article shall not be in derogation of the power conferred
 on the Supreme Court by clause (2) of article 32.]
@@ -5486,9 +5459,9 @@ s. 30 (w.e.f. 1-8-1979).
 3Cl. (1) has been successively subs. by the Constitution (Forty-second Amendment) Act,
 1976, s. 40 (w.e.f. 1-2-1977) and the Constitution (Forty-fourth Amendment) Act, 1978,
 s. 31, to read as above (w.e.f. 20-6-1979).
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 226-227.)
-114
+
 1* * * * *
 228. If the High Court is satisfied that a case pending
 in a court subordinate to it involves a substantial question
@@ -5528,16 +5501,16 @@ Courts.
 1Cl. (5) was ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 40 (w.e.f.
 1-2-1977) and omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 31
 (w.e.f. 20-6-1979).
-2Subs. by the Constitution (Forty-second Amendment) Act. 1976, s. 41, for “it shall
+
 withdraw the case and may —” (w.e.f. 1-2-1977).
 3The words, figures and letters “subject to the provisions of article 131A,“ omitted by
 the Constitution (Forty-third Amendment) Act, 1977, s. 9 (w.e.f. 13-4-1978).
 4Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 42 (w.e.f. 1-2-1977).
 5The words “in which the High Court has its principal seat” omitted by the Constitution
 (Seventh Amendment) Act, 1956, s. 29 and Sch.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 227—229.)
-115
+
 officers and servants of a High Court shall be such as
 may be prescribed by rules made by the Chief Justice of
 the Court or by some other Judge or officer of the Court
@@ -5584,10 +5557,9 @@ Court for two or
 more States.
 1The words “in which the High Court has its principal seat” omitted by the Constitution
 (Seventh Amendment) Act, 1956, s. 29 and Sch.
-2Subs. by s. 16, ibid., for arts. 230, 231 and 232.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 229—231.)
-116
+
 (b) the reference in article 227 to the Governor
 shall, in relation to any rules, forms or tables for
 subordinate courts, be construed as a reference to
@@ -5633,9 +5605,9 @@ judges.
 1Ins. by the Constitution (Twentieth Amendment) Act, 1966, s. 2.
 Appointment of
 district judges.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 231—233A.)
-117
+
 otherwise than in accordance with the provisions of
 article 233 or article 235 shall be deemed to be illegal or
 void or ever to have become illegal or void by reason
@@ -5683,9 +5655,9 @@ the judicial service.
 Control over
 subordinate courts.
 Interpretation.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 233A—236.)
-118
+
 a small cause court, chief presidency magistrate,
 additional chief presidency magistrate, sessions
 judge, additional sessions judge and assistant
@@ -5707,13 +5679,13 @@ provisions of this
 Chapter to certain
 class or classes of
 magistrates.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The States.—Arts. 236-237.)
-119
+
 Part VII.—[The States in Part B of the First
 Schedule.] Rep. by the Constitution (Seventh Amendment)
 Act, 1956, s. 29 and Sch.
-120
+
 PART VIII
  1[THE UNION TERRITORIES]
 2[239. (1) Save as otherwise provided by Parliament
@@ -5754,16 +5726,16 @@ territories.
 Special provisions
 with respect to
 Delhi.
-1Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 17, for the heading
+
 “THE STATES IN PART C OF THE FIRST SCHEDULE“.
-2Subs. by s. 17, ibid., for arts. 239 and 240.
+
 3Ins. by the Constitution (Fourteenth Amendment) Act, 1962, s. 4.
-4Subs. by the Goa, Daman and Diu Reorganisation Act, 1987 (18 of 1987), s. 63, for “for
+
 any of the Union territories of Goa, Daman and Diu and Pondicherry”(w.e.f. 30-5-1987).
-5Subs. by the Pondicherry (Alteration of Name) Act, 2006 (44 of 2006), s. 4, for
+
 “Pondicherry“ (w.e.f. 1-10-2006).
 6Ins. by the Constitution (Sixty-ninth Amendment) Act, 1991, s. 2 (w.e.f. 1-2-1992).
-121
+
 Capital Territory of Delhi (hereafter in this Part referred
 to as the National Capital Territory) and the administrator
 thereof appointed under article 239 shall be designated
@@ -5802,9 +5774,9 @@ laws with respect to any matter for a Union territory or
 any part thereof.
 (c) If any provision of a law made by the Legislative
 Assembly with respect to any matter is repugnant to any
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The Union territories.—Art. 239AA.)
-122
+
 provision of a law made by Parliament with respect to
 that matter, whether passed before or after the law made
 by the Legislative Assembly, or of an earlier law, other
@@ -5843,9 +5815,9 @@ deems necessary.
 (5) The Chief Minister shall be appointed by the
 President and other Ministers shall be appointed by
 the President on the advice of the Chief Minister and the
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The Union territories.—Art. 239AA.)
-123
+
 Ministers shall hold office during the pleasure of the
 President.
 (6) The Council of Ministers shall be collectively
@@ -5880,18 +5852,18 @@ National Capital Territory it is necessary or expedient
 so to do,
 the President may by order suspend the operation of any
 provision of article 239AA or of all or any of the
-1Subs. by the Constitution (Seventieth Amendment) Act, 1992, s. 3, for “(7)” (w.e.f.
+
 21-12-1991).
 2Ins. by s. 3, ibid. (w.e.f. 21-12-1991).
-3Subs. by the Pondicherry (Alteration of Name) Act, 2006 (44 of 2006), s. 4, for
+
 “Pondicherry“ (w.e.f. 1-10-2006).
 Provision in case
 of failure of
 constitutional
 machinery.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The Union territories.—Arts. 239AA-239AB.)
-124
+
 provisions of any law made in pursuance of that article
 for such period and subject to such conditions as may be
 specified in such law and make such incidental and
@@ -5925,9 +5897,9 @@ every such Ordinance—
 Union territory and shall cease to operate at the
 1Ins. by the Constitution (Twenty-seventh Amendment) Act, 1971, s. 3 (w.e.f.
 30-12-1971).
-2Subs. by the Goa, Daman and Diu Reorganisation Act, 1987 (18 of 1987), s. 63, for “a
+
 Union territory referred to in clause (1) of article 239A”(w.e.f. 30-5-1987).
-3Subs. by the Pondicherry (Alteration of Name) Act, 2006 (44 of 2006), s. 4, for
+
 “Pondicherry“ (w.e.f. 1-10-2006).
 Power of
 administrator to
@@ -5935,9 +5907,9 @@ promulgate
 Ordinances during
 recess of
 Legislature.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The Union territories.—Arts. 239AB-239B.)
-125
+
 expiration of six weeks from the reassembly of the
 Legislature or if, before the expiration of that period,
 a resolution disapproving it is passed by the
@@ -5972,33 +5944,30 @@ territories.
 1Cl. (4) was ins. by the Constitution (Thirty-eighth Amendment) Act, 1975, s. 4
 (retrospectively) and omitted by the Consititution (Forty-fourth Amendment) Act, 1978,
 s. 32 (w.e.f. 20-6-1979).
-2Subs. by the Laccadive, Minicoy and Amindivi Islands (Alteration of Name) Act, 1973
+
 (34 of 1973), s. 4, for entry (b) (w.e.f. 1-11-1973).
 3Ins. by the Constitution (Tenth Amendment) Act, 1961, s. 3.
-4Subs. by the Goa, Daman and Diu Reorganisation Act, 1987 (18 of 1987), s. 63, for
+
 entry (d) (w.e.f. 30-5-1987). Entry (d) was ins. by the Constitution (Twelfth Amendment)
 Act, 1962, s. 3.
-5Subs. by The Pondicherry (Alteration of Name) Act, 2006 (44 of 2006), s. 4, for
+
 “Pondicherry” (w.e.f. 1-10-2006).
 6The entry (f) relating to Mizoram omitted by the State of Mizoram Act, 1986 (34 of
 1986), s. 39 (w.e.f. 20-2-1987).
 7The entry (g) relating to Arunachal Pradesh omitted by the State of Arunachal Pradesh
 Act, 1986 (69 of 1986), s. 42 (w.e.f. 20-2-1987).
 8Ins. by the Constitution (Fourteenth Amendment) Act, 1962, s. 5.
-9Subs. by the Constitution (Twenty-seventh Amendment) Act, 1971, s. 4, for “Union
+
 territory of Goa, Daman and Diu or Pondicherry” (w.e.f. 15-2-1972).
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The Union territories.—Arts. 239B-240.)
-126
-1Subs. by the Pondicherry (Alteration of Name) Act, 2006 (44 of 2006), s. 4, for
+
 “Pondicherry“ (w.e.f. 1-10-2006).
 2Ins. by the Constitution (Twenty-seventh Amendment) Act, 1971, s. 4 (w.e.f.
 15-2-1972).
-3Subs. by s. 4, ibid., for “any existing law”(w.e.f. 15-2-1972).
-4Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch., for “State
+
 specified in Part C of the First Schedule”.
-5Subs. by s. 29 and Sch., ibid., for “such State”.
-6Subs. by s. 29 and Sch., ibid., for cls. (3) and (4).
+
 of 1[Puducherry], the President shall not make any
 regulation for the peace, progress and good government
 of that Union territory with effect from the date appointed
@@ -6031,9 +6000,9 @@ Parliament may by law provide.
 and to the provisions of any law of the appropriate
 High Courts for
 Union territories.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The Union territories.—Arts. 240-241.)
-127
+
 Legislature made by virtue of powers conferred on that
 Legislature by or under this Constitution, every
 High Court exercising jurisdiction immediately before the
@@ -6047,9 +6016,9 @@ High Court for a State to, or from, any Union territory or
 part thereof.]
 242. [Coorg.] Rep. by the Constitution (Seventh
 Amendment) Act, 1956, s. 29 and Sch.
-THE CONSTITUTION OF INDIA
+
 (Part VI.—The Union territories.—Arts. 241-242.)
-128
+
 1[PART IX
 THE PANCHAYATS
 243. In this Part, unless the context otherwise
@@ -6081,7 +6050,7 @@ Legislature of a State may, by law, provide.
 243B. (1) There shall be constituted in every State,
 Panchayats at the village, intermediate and district levels
 in accordance with the provisions of this Part.
-129
+
 Definitions.
 Gram Sabha.
 Constitution of
@@ -6128,9 +6097,9 @@ village level, in such Panchayat;
 the members of the Legislative Council of the
 Composition of
 Panchayats.
-THE CONSTITUTION OF INDIA
+
 (Part IX.—The Panchayats.—Arts. 243B-243C.)
-130
+
 State, where they are registered as electors within—
 (i) a Panchayat area at the intermediate level,
 in Panchayat at the intermediate level;
@@ -6168,9 +6137,9 @@ seats reserved for women belonging to the Scheduled
 Castes and the Scheduled Tribes) of the total number of
 Reservation of
 seats.
-THE CONSTITUTION OF INDIA
+
 (Part IX.—The Panchayats.—Arts. 243C-243D.)
-131
+
 seats to be filled by direct election in every Panchayat
 shall be reserved for women and such seats may be
 allotted by rotation to different constituencies in a
@@ -6210,9 +6179,9 @@ for five years from the date appointed for its first meeting
 and no longer.
 Duration of
 Panchayats, etc.
-THE CONSTITUTION OF INDIA
+
 (Part IX.—The Panchayats.—Arts. 243D-243E.)
-132
+
  (2) No amendment of any law for the time being in
 force shall have the effect of causing dissolution of a
 Panchayat at any level, which is functioning immediately
@@ -6257,9 +6226,9 @@ for membership.
 Powers, authority
 and responsibilities
 of Panchayats.
-THE CONSTITUTION OF INDIA
+
 (Part IX.—The Panchayats.—Arts. 243E—243G.)
-133
+
 Panchayats with such powers and authority as may be
 necessary to enable them to function as institutions of
 self-government and such law may contain provisions
@@ -6303,9 +6272,9 @@ Finance
 Commission to
 review financial
 position.
-THE CONSTITUTION OF INDIA
+
 (Part IX.—The Panchayats.—Arts. 243G—243-I.)
-134
+
 to the Governor as to—
 (a) the principles which should govern—
 (i) the distribution between the State and the
@@ -6346,9 +6315,9 @@ Audit of accounts
 of Panchayats.
 Elections to the
 Panchayats.
-THE CONSTITUTION OF INDIA
+
 (Part IX.—The Panchayats.—Arts. 243-I—243K.)
-135
+
 a State Election Commission consisting of a State Election
 Commissioner to be appointed by the Governor.
 (2) Subject to the provisions of any law made by the
@@ -6390,9 +6359,9 @@ Application to
 Union territories.
 Part not to apply
 to certain areas.
-THE CONSTITUTION OF INDIA
+
 (Part IX.—The Panchayats.—Arts. 243K—243M.)
-136
+
 (2) Nothing in this Part shall apply to—
 (a) the States of Nagaland, Meghalaya and
 Mizoram;
@@ -6433,9 +6402,9 @@ Continuance of
 existing laws and
 Panchayats.
 1Ins. by the Constitution (Eighty-third Amendment) Act, 2000, s. 2.
-THE CONSTITUTION OF INDIA
+
 (Part IX.—The Panchayats.—Arts. 243M-243N.)
-137
+
 State immediately before the commencement of the
 Constitution (Seventy-third Amendment) Act, 1992, which
 is inconsistent with the provisions of this Part, shall
@@ -6465,9 +6434,9 @@ a State.]
 Bar to interference
 by courts in
 electoral matters.
-THE CONSTITUTION OF INDIA
+
 (Part IX.—The Panchayats.—Arts. 243N-243-O.)
-138
+
 1[PART IXA
 THE MUNICIPALITIES
 243P. In this Part, unless the context otherwise
@@ -6499,7 +6468,7 @@ transition from a rural area to an urban area;
 and
 (c) a Municipal Corporation for a larger urban
 area,
-139
+
 Constitution of
 Municipalities.
 1Ins. by the Constitution (Seventy-fourth Amendment) Act, 1992, s. 2 (w.e.f 1-6-1993).
@@ -6543,9 +6512,9 @@ area;
 constituted under clause (5) of article 243S:
 Composition of
 Municipalities.
-THE CONSTITUTION OF INDIA
+
 (Part IXA.—The Municipalities.—Arts. 243Q-243R.)
-140
+
 Provided that the persons referred to in paragraph
 (i) shall not have the right to vote in the meetings of
 the Municipality;
@@ -6591,9 +6560,9 @@ Wards Committees,
 etc.
 Reservation of
 seats.
-THE CONSTITUTION OF INDIA
+
 (Part IXA.—The Municipalities.—Arts. 243R—243T.)
-141
+
 (2) Not less than one-third of the total number of
 seats reserved under clause (1) shall be reserved for
 women belonging to the Scheduled Castes or, as the case
@@ -6633,9 +6602,9 @@ of its duration specified in clause (1).
 Duration of
 Municipalities,
 etc.
-THE CONSTITUTION OF INDIA
+
 (Part IXA.—The Municipalities.—Arts. 243T-243U.)
-142
+
 (3) An election to constitute a Municipality shall be
 completed,—
 (a) before the expiry of its duration specified in
@@ -6682,9 +6651,9 @@ Powers, authority
 and responsibilities
 of Municipalities,
 etc.
-THE CONSTITUTION OF INDIA
+
 (Part IXA.—The Municipalities.—Arts. 243U—243W.)
-143
+
 with respect to—
 (i) the preparation of plans for economic
 development and social justice;
@@ -6727,9 +6696,9 @@ of, the
 Municipalities.
 Finance
 Commission.
-THE CONSTITUTION OF INDIA
+
 (Part IXA.—The Municipalities.—Arts. 243W—243Y.)
-144
+
 duties, tolls and fees leviable by the State, which
 may be divided between them under this Part
 and the allocation between the Municipalities at
@@ -6773,9 +6742,9 @@ Elections to the
 Municipalities.
 Application to
 Union territories.
-THE CONSTITUTION OF INDIA
+
 (Part IXA.—The Municipalities.—Arts. 243Y—243ZB.)
-145
+
 Legislative Assembly, to that Legislative Assembly:
 Provided that the President may, by public
 notification, direct that the provisions of this Part shall
@@ -6817,9 +6786,9 @@ Part not to apply
 to certain areas.
 Committee for
 district planning.
-THE CONSTITUTION OF INDIA
+
 (Part IXA.—The Municipalities.—Arts. 243ZB—243ZD.)
-146
+
 between the population of the rural areas and of the
 urban areas in the district;
 (c) the functions relating to district planning which
@@ -6861,9 +6830,9 @@ the Metropolitan area in proportion to the ratio
 Committee for
 Metropolitan
 planning.
-THE CONSTITUTION OF INDIA
+
 (Part IXA.—The Municipalities.—Arts. 243ZD-243ZE.)
-147
+
 between the population of the Municipalities and of the
 Panchayats in that area;
 (c) the representation in such Committees of the
@@ -6901,9 +6870,9 @@ the Governor may, by order, specify.
 Committee shall forward the development plan, as
 recommended by such Committee, to the Government of
 the State.
-THE CONSTITUTION OF INDIA
+
 (Part IXA.—The Municipalities.—Art. 243ZE.)
-148
+
  243ZF. Notwithstanding anything in this Part, any
 provision of any law relating to Municipalities in force
 in a State immediately before the commencement of the
@@ -6938,9 +6907,9 @@ Municipalities.
 Bar to interference
 by courts in
 electoral matters.
-THE CONSTITUTION OF INDIA
+
 (Part IXA.—The Municipalities.—Arts. 243ZF-243ZG.)
-149
+
 PART X
 THE SCHEDULED AND TRIBAL AREAS
 244. (1) The provisions of the Fifth Schedule shall
@@ -6963,22 +6932,22 @@ the autonomous State, or
 (b) a Council of Ministers,
 or both with such constitution, powers and functions, in
 each case, as may be specified in the law.
-150
+
 Administration of
 Scheduled Areas
 and Tribal Areas.
 1The words and letters “specified in Part A or Part B of the First Schedule” omitted by
 the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch.
-2Subs. by the North-Eastern Areas (Reorganisation) Act, 1971 (81 of 1971), s. 71, for
+
 “the State of Assam” (w.e.f. 21-1-1972).
-3Subs. by the Constitution (Forty-ninth Amendment) Act, 1984, s. 2, for “and Meghalaya”
+
 (w.e.f. 1-4-1985).
-4Subs. by the State of Mizoram Act, 1986 (34 of 1986), s. 39, for “Meghalaya and
+
 Tripura” (w.e.f. 20-2-1987).
-5Subs. by s. 39, ibid., for “Meghalaya and Tripura and the Union Territory of
+
 Mizoram”(w.e.f. 20-2-1987).
 6Ins. by the Constitution (Twenty-second Amendment) Act, 1969, s. 2.
-7Subs. by the North-Eastern Areas (Reorganisation) Act, 1971 (81 of 1971), s. 71, for
+
 “Part A” (w.e.f. 21-1-1972).
 Formation of an
 autonomous State
@@ -7021,9 +6990,9 @@ not be deemed to be an amendment of this Constitution
 for the purposes of article 368 notwithstanding that it
 contains any provision which amends or has the effect
 of amending this Constitution.]
-THE CONSTITUTION OF INDIA
+
 (Part X.—The Scheduled and Tribal Areas.—Art. 244A.)
-151
+
 PART XI
 RELATIONS BETWEEN THE UNION AND
 THE STATES
@@ -7056,10 +7025,10 @@ Constitution referred to as the “State List”).
 to any matter for any part of the territory of India not
 included 2[in a State] notwithstanding that such matter is
 a matter enumerated in the State List.
-152
+
 1The words and letters “specified in Part A or Part B of the First Schedule” omitted by
 the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch.
-2Subs. by s. 29 and Sch., ibid., for “ in Part A or Part B of the First Schedule”.
+
 Extent of laws
 made by
 Parliament and
@@ -7123,10 +7092,10 @@ respect to a
 matter in the
 State List in the
 national interest.
-THE CONSTITUTION OF INDIA
+
 (Part XI.—Relations between the Union and the States.—
 Arts. 247—249.)
-153
+
 250. (1) Notwithstanding anything in this Chapter,
 Parliament shall, while a Proclamation of Emergency is
 in operation, have power to make laws for the whole or
@@ -7191,8 +7160,7 @@ consent and
 adoption of such
 legislation by any
 other State.
-154
-THE CONSTITUTION OF INDIA
+
 (Part XI.—Relations between the Union and the States.—
 Arts. 250—252.)
 (2) Any Act so passed by Parliament may be amended
@@ -7243,10 +7211,10 @@ Legislatures of
 States.
 1The words and letters “specified in Part A or Part B of the First Schedule” omitted by
 the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch.
-THE CONSTITUTION OF INDIA
+
 (Part XI.—Relations between the Union and the States.—
 Arts. 252—254.)
-155
+
 255. No Act of Parliament or of the Legislature of a
 State 1***, and no provision in any such Act, shall be
 invalid by reason only that some recommendation or
@@ -7293,8 +7261,7 @@ Union.
 Control of the
 Union over States
 in certain cases.
-156
-THE CONSTITUTION OF INDIA
+
 (Part XI.—Relations between the Union and the States.—
 Arts. 255—257.)
 declared in the direction to be of national or military
@@ -7337,10 +7304,10 @@ to confer powers,
 etc., on States in
 certain cases.
 1Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 43 (w.e.f. 3-1-1977).
-THE CONSTITUTION OF INDIA
+
 (Part XI.—Relations between the Union and the States.—
 Arts. 257—258.)
-157
+
 (2) A law made by Parliament which applies in any
 State may, notwithstanding that it relates to a matter with
 respect to which the Legislature of the State has no power
@@ -7387,8 +7354,7 @@ Public acts, records
 and judicial
 proceedings.
 1Ins. by the Constitution (Seventh Amendment) Act, 1956, s. 18.
-158
-THE CONSTITUTION OF INDIA
+
 (Part XI.—Relations between the Union and the States.—
 Arts. 258—261.)
 (2) The manner in which and the conditions under
@@ -7435,10 +7401,10 @@ Provisions with
 respect to an
 inter-State
 Council.
-THE CONSTITUTION OF INDIA
+
 (Part XI.—Relations between the Union and the States.—
 Arts. 261—263.)
-159
+
 PART XII
 FINANCE, PROPERTY, CONTRACTS AND SUITS
 CHAPTER I.—FINANCE
@@ -7470,7 +7436,7 @@ public account of the State, as the case may be.
 or the Consolidated Fund of a State shall be appropriated
 except in accordance with law and for the purposes and
 in the manner provided in this Constitution.
-160
+
 Interpretation.
 Taxes not to be
 imposed save by
@@ -7479,7 +7445,7 @@ Consolidated
 Funds and public
 accounts of India
 and of the States.
-1Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch., for art. 264.
+
 267. (1) Parliament may by law establish a
 Contingency Fund in the nature of an imprest to be
 entitled “the Contingency Fund of India” into which
@@ -7520,16 +7486,15 @@ appropriated by
 the States.
 1The words “or Rajpramukh” omitted by the Constitution (Seventh Amendment) Act,
 1956, s. 29 and Sch.
-2Subs. by s. 29 and Sch., ibid., for “State specified in Part C of the First Schedule”.
-THE CONSTITUTION OF INDIA
+
 (Part XII.—Finance, Property, Contracts and Suits.—
 Arts. 267-268.)
-161
+
 (2) The proceeds in any financial year of any such
 duty leviable within any State shall not form part of the
 Consolidated Fund of India, but shall be assigned to that
 State.
-*[268A. (1) Taxes on services shall be levied by the
+
 Government of India and such tax shall be collected and
 appropriated by the Government of India and the States
 in the manner provided in clause (2).
@@ -7570,13 +7535,12 @@ Taxes levied and
 collected by the
 Union but assigned
 to the States.
-*Ins. by the Constitution (Eighty-eighth Amendment) Act, 2003, s. 2 (which is yet not in
+
 force, date to be notified later on).
-1Subs. by the Constitution (Eightieth Amendment) Act, 2000, s. 2, for cls. (1) and (2).
-THE CONSTITUTION OF INDIA
+
 (Part XII.—Finance, Property, Contracts and Suits.—
 Arts. 268-269.)
-162
+
 (2) The net proceeds in any financial year of any such
 tax, except in so far as those proceeds represent proceeds
 attributable to Union territories, shall not form part of the
@@ -7591,7 +7555,7 @@ of, goods] takes place in the course of inter-State trade or
 commerce.]
 3[270. (1) All taxes and duties referred to in the Union
 List, except the duties and taxes referred to in articles
-*[268 and 269], respectively, surcharge on taxes and duties
+
 referred to in article 271 and any cess levied for specific
 purposes under any law made by Parliament shall be
 levied and collected by the Government of India and
@@ -7620,15 +7584,15 @@ States.
 1Ins. by the Constitution (Sixth Amendment) Act, 1956, s. 3.
 2Subs by the Constitution (Forty-sixth Amendment) Act, 1982, s. 2, for “sale or purchase
 of goods”.
-3Subs. by the Constitution (Eightieth Amendment) Act, 2000, s. 3, for art. 270 (w.e.f.
+
 1-4-1996).
-*The words and figures in brackets shall stand substituted as “articles 268, 268A and
+
 269” by the Constitution (Eighty-eighth Amendment) Act, 2003, s. 3 (which is yet not in
 force, date to be notified later on).
-THE CONSTITUTION OF INDIA
+
 (Part XII.—Finance, Property, Contracts and Suits.—
 Arts. 269-270.)
-163
+
 271. Notwithstanding anything in articles 269 and
 270, Parliament may at any time increase any of the
 duties or taxes referred to in those articles by a surcharge
@@ -7683,10 +7647,10 @@ to Bills affecting
 taxation in which
 States are
 interested.
-THE CONSTITUTION OF INDIA
+
 (Part XII.—Finance, Property, Contracts and Suits.—
 Arts. 271—274.)
-164
+
 (b) a tax or duty by reference to the net proceeds
 whereof sums are for the time being payable out of
 the Consolidated Fund of India to any State.
@@ -7721,12 +7685,12 @@ of the Government of India for the purpose of raising
 Grants from the
 Union to certain
 States.
-1Subs. by the North-Eastern Areas (Reorganisation) Act, 1971 (81 of 1971), s. 71, for
+
 “Part A” (w.e.f. 21-1-1972).
-THE CONSTITUTION OF INDIA
+
 (Part XII.—Finance, Property, Contracts and Suits.—
 Arts. 274-275.)
-165
+
 the level of administration of the said areas to that of
 the administration of the rest of the areas of that
 State.
@@ -7761,10 +7725,10 @@ constituted no order shall be made under this clause
 by the President except after considering the
 recommendations of the Finance Commission.
 1Ins. by the Constitution (Twenty-second Amendment) Act, 1969, s. 3.
-THE CONSTITUTION OF INDIA
+
 (Part XII.—Finance, Property, Contracts and Suits.—
 Art. 275.)
-166
+
 276. (1) Notwithstanding anything in article 246, no
 law of the Legislature of a State relating to taxes for the
 benefit of the State or of a municipality, district board,
@@ -7803,13 +7767,13 @@ professions, trades,
 callings and
 employments.
 Savings.
-1Subs. by the Constitution (Sixtieth Amendment) Act, 1988, s. 2, for “two hundred and
+
 fifty rupees”.
 2Proviso omitted by s. 2, ibid.
-THE CONSTITUTION OF INDIA
+
 (Part XII.—Finance, Property, Contracts and Suits.—
 Arts. 276—278.)
-167
+
 279. (1) In the foregoing provisions of this Chapter,
 “net proceeds” means in relation to any tax or duty the
 proceeds thereof reduced by the cost of collection, and for
@@ -7853,10 +7817,10 @@ Calculation of “net
 proceeds”, etc.
 Finance
 Commission.
-THE CONSTITUTION OF INDIA
+
 (Part XII.—Finance, Property, Contracts and Suits.—
 Arts. 279-280.)
-168
+
 1[(bb) the measures needed to augment the
 Consolidated Fund of a State to supplement the
 resources of the Panchayats in the State on the basis
@@ -7907,10 +7871,10 @@ public accounts.
 1Ins. by the Constitution (Seventy-third Amendment) Act, 1992, s. 3 (w.e.f. 24-4-1993).
 2Ins. by the Constitution (Seventy-fourth Amendment) Act, 1992, s. 3 (w.e.f. 1-6-1993).
 3Sub-clause (c) re-lettered as sub-clause (d) by s. 3, ibid. (w.e.f. 1-6-1993).
-THE CONSTITUTION OF INDIA
+
 (Part XII.—Finance, Property, Contracts and Suits.—
 Arts. 280—283.)
-169
+
 ancillary to matters aforesaid shall be regulated by law
 made by Parliament, and, until provision in that behalf
 is so made, shall be regulated by rules made by the
@@ -7960,10 +7924,10 @@ Union from State
 taxation.
 1The words “or Rajpramukh“ omitted by the Constitution (Seventh Amendment) Act,
 1956, s. 29 and Sch.
-THE CONSTITUTION OF INDIA
+
 (Part XII.—Finance, Property, Contracts and Suits.—
 Arts. 283—285.)
-170
+
  286. (1) No law of a State shall impose, or authorise
 the imposition of, a tax on the sale or purchase of goods
 where such sale or purchase takes place—
@@ -8006,12 +7970,10 @@ purchase of goods.
 Exemption from
 taxes on electricity.
 1Explanation to cl. (1) omitted by the Constitution (Sixth Amendment) Act, 1956, s. 4.
-2Subs. by s. 4, ibid., for cls. (2) and (3).
-3Subs. by the Constitution (Forty-sixth Amendment) Act, 1982, s. 3, for cl. (3).
-THE CONSTITUTION OF INDIA
+
 (Part XII.—Finance, Property, Contracts and Suits.—
 Arts. 286-287.)
-171
+
 company for consumption in the construction,
 maintenance or operation of any railway,
 and any such law imposing, or authorising the
@@ -8062,10 +8024,10 @@ property and
 income of a State
 from Union
 taxation.
-THE CONSTITUTION OF INDIA
+
 (Part XII.—Finance, Property, Contracts and Suits.—
 Arts. 287—289.)
-172
+
 in respect of a trade or business of any kind carried on
 by, or on behalf of, the Government of a State, or any
 operations connected therewith, or any property used or
@@ -8112,10 +8074,10 @@ Annual payment to
 certain Devaswom
 Funds.
 1Ins. by the Constitution (Seventh Amendment) Act, 1956, s. 19.
-THE CONSTITUTION OF INDIA
+
 (Part XII.—Finance, Property, Contracts and Suits.—
 Arts. 289—290A.)
-173
+
 the Travancore Devaswom Fund; and a sum of thirteen
 lakhs and fifty thousand rupees shall be charged on, and
 paid out of, the Consolidated Fund of the State of 1[Tamil
@@ -8156,14 +8118,14 @@ Government.
 Borrowing by the
 Government of
 India.
-1Subs. by the Madras State (Alteration of Name) Act, 1968 (53 of 1968), s. 4, for
+
 “Madras” (w.e.f. 14-1-1969).
 Borrowing by
 States.
-THE CONSTITUTION OF INDIA
+
 (Part XII.—Finance, Property, Contracts and Suits.—
 Arts. 290A—293.)
-174
+
 (4) A consent under clause (3) may be granted subject
 to such conditions, if any, as the Government of India
 may think fit to impose.
@@ -8212,10 +8174,10 @@ property, assets,
 rights, liabilities
 and obligations in
 other cases.
-THE CONSTITUTION OF INDIA
+
 (Part XII.—Finance, Property, Contracts and Suits.—
 Arts. 293—295.)
-175
+
 (b) all rights, liabilities and obligations of the
 Government of any Indian State corresponding to a
 State specified in Part B of the First Schedule, whether
@@ -8256,10 +8218,10 @@ article 363.
 Property accruing
 by escheat or lapse
 or as bona vacantia.
-THE CONSTITUTION OF INDIA
+
 (Part XII.—Finance, Property, Contracts and Suits.—
 Arts. 295-296.)
-176
+
 1[297. (1) All lands, minerals and other things of value
 underlying the ocean within the territorial waters, or the
 continental shelf, or the exclusive economic zone, of India
@@ -8302,16 +8264,16 @@ the exclusive
 economic zone to
 vest in the Union.
 Contracts.
-1Subs. by the Constitution (Fortieth Amendment) Act, 1976, s. 2, for art. 297 (w.e.f.
+
 27-5-1976).
-2Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 20, for art. 298.
+
 3The words “or the Rajpramukh“ omitted by s. 29 and Sch., ibid.
 Power to carry on
 trade, etc.
-THE CONSTITUTION OF INDIA
+
 (Part XII.—Finance, Property, Contracts and Suits.—
 Arts. 297—299.)
-177
+
 the President or the Governor 1*** by such persons and in
 such manner as he may direct or authorise.
 (2) Neither the President nor the Governor 2*** shall
@@ -8357,10 +8319,10 @@ Act, 1956, s. 29 and Sch.
 2The words “nor the Rajpramukh“ omitted by s. 29 and Sch., ibid.
 3Ins. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 34 (w.e.f.
 20-6-1979).
-THE CONSTITUTION OF INDIA
+
 (Part XII.—Finance, Property, Contracts and Suits.—
 Arts. 299—300A.)
-178
+
 PART XIII
 TRADE, COMMERCE AND INTERCOURSE
 WITHIN THE TERRITORY OF INDIA
@@ -8394,7 +8356,7 @@ goods manufactured or produced in that State are
 subject, so, however, as not to discriminate between
 goods so imported and goods so manufactured or
 produced; and
-179
+
 Freedom of trade,
 commerce and
 intercourse.
@@ -8448,11 +8410,10 @@ authority for
 carrying out the
 purposes of articles
 301 to 304.
-1Subs. by the Constitution (Fourth Amendment) Act, 1955, s. 4, for art. 305.
-THE CONSTITUTION OF INDIA
+
 (Part XIII.—Trade, Commerce and Intercourse within the
 Territory of India.—Arts. 304—307.)
-180
+
 PART XIV
 SERVICES UNDER THE UNION AND THE STATES
 CHAPTER I.—SERVICES
@@ -8487,7 +8448,7 @@ post under a State holds office during the pleasure of
 the Governor 3*** of the State.
 (2) Notwithstanding that a person holding a civil
 post under the Union or a State holds office during the
-181
+
 Interpretation.
 Recruitment and
 conditions of
@@ -8542,14 +8503,13 @@ Union or a State.
 1The words “or the Rajpramukh” omitted by the Constitution (Seventh Amendment)
 Act, 1956, s. 29 and Sch.
 2The words “or the Rajpramukh” omitted by s. 29 and Sch., ibid.
-3Subs. by the Constitution (Fifteenth Amendment) Act, 1963, s. 10, for cls. (2) and (3).
+
 4Certain words omitted by the Constitution (Forty-second Amendment) Act, 1976, s. 44
 (w.e.f. 3-1-1977).
-5Subs. by s. 44, ibid., for certain words (w.e.f. 3-1-1977).
-THE CONSTITUTION OF INDIA
+
 (Part XIV.—Services under the Union and the States.—
 Arts. 310—311.)
-182
+
 (b) where the authority empowered to dismiss or
 remove a person or to reduce him in rank is satisfied
 that for some reason, to be recorded by that authority
@@ -8586,13 +8546,13 @@ judge as defined in article 236.
 all-India judicial service aforesaid may contain such
 provisions for the amendment of Chapter VI of Part VI
 All-India services.
-1Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 45, for “Part XI”
+
 (w.e.f. 3-1-1977).
 2Ins. by s. 45, ibid. (w.e.f. 3-1-1977).
-THE CONSTITUTION OF INDIA
+
 (Part XIV.—Services under the Union and the States.—
 Arts. 311—312.)
-183
+
 as may be necessary for giving effect to the provisions of
 that law and no such law shall be deemed to be an
 amendment of this Constitution for the purposes of
@@ -8639,10 +8599,10 @@ conditions of
 service of officers
 of certain services.
 1Ins. by the Constitution (Twenty-eighth Amendment) Act, 1972, s. 2 (w.e.f. 29-8-1972).
-THE CONSTITUTION OF INDIA
+
 (Part XIV.—Services under the Union and the States.—
 Arts. 312—312A.)
-184
+
 (2) Except to the extent provided for by Parliament
 by law under this article, nothing in this article shall
 affect the power of any Legislature or other authority
@@ -8686,10 +8646,10 @@ Public Service
 Commissions for
 the Union and for
 the States.
-THE CONSTITUTION OF INDIA
+
 (Part XIV.—Services under the Union and the States.—
 Arts. 312A—315.)
-185
+
 (2) Two or more States may agree that there shall be
 one Public Service Commission for that group of States,
 and if a resolution to that effect is passed by the House
@@ -8732,10 +8692,10 @@ term of office of
 members.
 1The words “or Rajpramukh” omitted by the Constitution (Seventh Amendment) Act,
 1956, s. 29 and Sch.
-THE CONSTITUTION OF INDIA
+
 (Part XIV.—Services under the Union and the States.—
 Arts. 315—316.)
-186
+
 1[(1A) If the office of the Chairman of the Commission
 becomes vacant or if any such Chairman is by reason of
 absence or for any other reason unable to perform the
@@ -8776,13 +8736,13 @@ suspension of a
 member of a Public
 Service Commission.
 1Ins. by the Constitution (Fifteenth Amendment) Act, 1963, s. 11.
-2Subs. by the Constitution (Forty-first Amendment) Act, 1976, s. 2, for “sixty years”.
+
 3The words “or Rajpramukh” omitted by the Constitution (Seventh Amendment) Act,
 1956, s. 29 and Sch.
-THE CONSTITUTION OF INDIA
+
 (Part XIV.—Services under the Union and the States.—
 Arts. 316—317.)
-187
+
 order of the President on the ground of misbehaviour
 after the Supreme Court, on reference being made to it by
 the President, has, on inquiry held in accordance with
@@ -8820,10 +8780,10 @@ purposes of clause (1), be deemed to be guilty of
 misbehaviour.
 1The words “or Rajpramukh” omitted by the Constitution (Seventh Amendment) Act,
 1956, s. 29 and Sch.
-THE CONSTITUTION OF INDIA
+
 (Part XIV.—Services under the Union and the States.—
 Art. 317.)
-188
+
 318. In the case of the Union Commission or a Joint
 Commission, the President and, in the case of a State
 Commission, the Governor 1*** of the State may by
@@ -8872,10 +8832,10 @@ ceasing to be such
 members.
 1The words “or Rajpramukh” omitted by the Constitution (Seventh Amendment) Act,
 1956, s. 29 and Sch.
-THE CONSTITUTION OF INDIA
+
 ((Part XIV.—Services under the Union and the States.—
 Arts. 318—319.)
-189
+
 of the Union Public Service Commission or as the
 Chairman of that or any other State Public Service
 Commission, but not for any other employment either
@@ -8915,10 +8875,10 @@ in the execution of his duty should be paid out of the
 Functions of
 Public Service
 Commissions.
-THE CONSTITUTION OF INDIA
+
 (Part XIV.—Services under the Union and the States.—
 Arts. 319—320.)
-190
+
 Consolidated Fund of India, or, as the case may be,
 out of the Consolidated Fund of the State;
 (e) on any claim for the award of a pension in
@@ -8957,10 +8917,10 @@ as both Houses of Parliament or the House or both Houses
 1The words “or Rajpramukh” omitted by the Constitution (Seventh Amendment) Act,
 1956, s. 29 and Sch.
 2The words “or Rajpramukh, as the case may be” omitted by s. 29 and Sch., ibid.
-THE CONSTITUTION OF INDIA
+
 (Part XIV.—Services under the Union and the States.—
 Art. 320.)
-191
+
 of the Legislature of the State may make during the
 session in which they are so laid.
 321. An Act made by Parliament or, as the case may
@@ -9010,10 +8970,10 @@ Commissions.
 1The words “or Rajpramukh” omitted by the Constitution (Seventh Amendment) Act,
 1956, s. 29 and Sch.
 2The words “or Rajpramukh, as the case may be” omitted by s. 29 and Sch., ibid.
-THE CONSTITUTION OF INDIA
+
 (Part XIV.—Services under the Union and the States.—
 Arts. 320—323.)
-192
+
 1[PART XIVA
 TRIBUNALS
 323A. (1) Parliament may, by law, provide for the
@@ -9049,7 +9009,7 @@ of action on which such suits or proceedings are
 based had arisen after such establishment;
 (f) repeal or amend any order made by the
 President under clause (3) of article 371D;
-193
+
 1Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 46 (w.e.f. 3-1-1977).
 Administrative
 tribunals.
@@ -9091,9 +9051,9 @@ and oils) and such other goods as the President may,
 by public notification, declare to be essential goods
 Tribunals for
 other matters.
-THE CONSTITUTION OF INDIA
+
 (Part XIVA.—Tribunals.—Arts. 323A—323B.)
-194
+
 for the purpose of this article and control of prices of
 such goods;
 1[(h) rent, its regulation and control and tenancy issues
@@ -9127,11 +9087,9 @@ after such establishment;
 1Ins. by the Constitution (Seventy-fifth Amendment) Act, 1993, s. 2 (w.e.f. 15-5-1994).
 2Sub-clauses (h) and (i) re-lettered as sub-clauses (i) and (j) by s. 2, ibid. (w.e.f.
 15-5-1994).
-3Subs. by s. 2, ibid., for “(g)” (w.e.f. 15-5-1994).
-4Subs. by s. 2, ibid., for “(h)” (w.e.f. 15-5-1994).
-THE CONSTITUTION OF INDIA
+
 (Part XIVA.—Tribunals.—Art. 323B.)
-195
+
 (f) contain such supplemental, incidental and
 consequential provisions (including provisions as to
 fees) as the appropriate Legislature may deem
@@ -9150,9 +9108,9 @@ Legislature”, in relation to any matter, means Parliament
 or, as the case may be, a State Legislature competent to
 make laws with respect to such matter in accordance
 with the provisions of Part XI.]
-THE CONSTITUTION OF INDIA
+
 (Part XIVA.—Tribunals.—Art. 323B.)
-196
+
 PART XV
 ELECTIONS
 324. (1) The superintendence, direction and control
@@ -9188,7 +9146,7 @@ Parliament, the conditions of service and tenure of
 office of the Election Commissioners and the Regional
 Commissioners shall be such as the President may by
 rule determine:
-197
+
 Superintendence,
 direction and
 control of elections
@@ -9252,11 +9210,11 @@ the basis of adult
 suffrage.
 1The words “or Rajpramukh” omitted by the Constitution (Seventh Amendment) Act,
 1956, s. 29 and Sch.
-2Subs. by the Constitution (Sixty-first Amendment) Act, 1988, s. 2, for “twenty-one
+
 years”.
-THE CONSTITUTION OF INDIA
+
 (Part XV.—Elections.—Arts. 324—326.)
-198
+
 327. Subject to the provisions of this Constitution,
 Parliament may from time to time by law make provision
 with respect to all matters relating to, or in connection
@@ -9306,13 +9264,13 @@ to such Legislature.
 Bar to interference
 by courts in
 electoral matters.
-1Subs. by the Constitution (Thirty-ninth Amendment) Act, 1975, s. 3, for certain words.
+
 2The words, figures and letters “but subject to the provisions of article 329A” omitted
 by the Constitution (Forty-fourth Amendment) Act, 1978, s. 35 (w.e.f. 20-6-1979).
 3Ins. by the Constitution (Thirty-ninth Amendment) Act, 1975, s. 4.
-THE CONSTITUTION OF INDIA
+
 (Part XV.—Elections.—Arts. 327—329A.)
-199
+
 PART XVI
 SPECIAL PROVISIONS RELATING
 TO CERTAIN CLASSES
@@ -9343,14 +9301,14 @@ population of the Scheduled Tribes in the said autonomous
 districts bears to the total population of the State.]
 4[Explanation—In this article and in article 332, the
 expression “population” means the population as
-200
+
 Reservation of seats
 for Scheduled
 Castes and
 Scheduled Tribes in
 the House of the
 People.
-1Subs. by the Constitution (Fifty-first Amendment) Act, 1984, s. 2, for sub-clause (b)
+
 (w.e.f. 16-6-1986).
 2Ins. by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch.
 3Ins. by the Constitution (Thirty-first Amendment) Act, 1973, s. 3.
@@ -9399,20 +9357,18 @@ Scheduled Tribes in
 the Legislative
 Assemblies of the
 States.
-1Subs. by the Constitution (Eighty-fourth Amendment) Act, 2001, s. 6, for “2000” and
+
 “1971” respectively.
-2Subs. by the Constitution (Eighty-seventh Amendment) Act, 2003, s. 5, for “1991”.
-3Subs. by the Constitution (Fifty-first Amendment) Act, 1984, s. 3, for certain words
+
 (w.e.f. 16-6-1986).
 4The words and letters “specified in Part A or Part B of the First Schedule” omitted by
 the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch.
 5Ins. by the Constitution (Fifty-seventh Amendment) Act, 1987, s. 2 (w.e.f.
 21-9-1987).
-6Subs. by the Constitution (Eighty-fourth Amendment) Act, 2001, s. 7, for “2000”.
-THE CONSTITUTION OF INDIA
+
 (Part XVI.—Special Provisions relating to certain
 Classes.—Arts. 330—332.)
-201
+
 Assemblies of the States of Arunachal Pradesh, Meghalaya,
 Mizoram and Nagaland, the seats which shall be reserved
 for the Scheduled Tribes in the Legislative Assembly of
@@ -9452,11 +9408,10 @@ autonomous district of Assam shall not comprise any
 area outside that district 3***.
 1Ins. by the Constitution (Seventy-second Amendment) Act, 1992, s. 2 (w.e.f.
 5-12-1992).
-2Subs. by the Constitution (Eighty-fourth Amendment) Act, 2001, s. 7, for “2000”.
+
 3Certain words omitted by the North-Eastern Areas (Reorganisation) Act, 1971 (81 of
 1971), s. 71 (w.e.f. 21-1-1972).
-202
-THE CONSTITUTION OF INDIA
+
 (Part XVI.—Special Provisions relating to certain
 Classes.—Art. 332.)
 (6) No person who is not a member of a Scheduled
@@ -9509,14 +9464,14 @@ years].
 2Ins. by the Constitution (Ninetieth Amendment) Act, 2003, s. 2.
 3The words “or Rajpramukh” omitted by the Constitution (Seventh Amendment) Act,
 1956, s. 29 and Sch.
-4Subs. by the Constitution (Twenty-third Amendment) Act, 1969, s. 4, for “nominate
+
 such number of members of the community to the Assembly as he considers appropriate”.
-5Subs. by the Constitution (Seventy-ninth Amendment) Act, 1999, s. 2, for “fifty years”
+
 (w.e.f. 25-1-2000).
-THE CONSTITUTION OF INDIA
+
 (Part XVI.—Special Provisions relating to certain
 Classes.—Arts. 332—334.)
-203
+
 335. The claims of the members of the Scheduled
 Castes and the Scheduled Tribes shall be taken into
 consideration, consistently with the maintenance of
@@ -9574,8 +9529,7 @@ community.
 1Ins. by the Constitution (Eighty-second Amendment) Act, 2000, s. 2.
 2The words and letters “specified in Part A or Part B of the First Schedule” omitted by
 the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch.
-204
-THE CONSTITUTION OF INDIA
+
 (Part XVI.—Special Provisions relating to certain
 Classes.—Arts. 335—337.)
 During every succeeding period of three years the
@@ -9612,17 +9566,17 @@ to the safeguards provided for the Scheduled Castes
 for the time being in force or under any order of the
 Government and to evaluate the working of such
 safeguards;
-1Subs. by the Constitution (Eighty-ninth Amendment) Act, 2003, s. 2, for the marginal
+
 heading (w.e.f. 19-2-2004).
-2Subs. by s. 2, ibid., for cls. (1) and (2) (w.e.f. 19-2-2004).
+
 3The words “and Scheduled Tribes” omitted by s. 2, ibid. (w.e.f. 19-2-2004).
 1[National
 Commission for
 Scheduled Castes.]
-THE CONSTITUTION OF INDIA
+
 (Part XVI.—Special Provisions relating to certain
 Classes.—Arts. 337-338.)
-205
+
 (b) to inquire into specific complaints with respect
 to the deprivation of rights and safeguards of the
 Scheduled Castes 1***;
@@ -9661,8 +9615,7 @@ and the reasons for the non-acceptance, if any, of any of
 such recommendations.
 1The words “and Scheduled Tribes” omitted by the Constitution (Eighty-ninth
 Amendment) Act, 2003, s. 2 (w.e.f. 19-2-2004).
-206
-THE CONSTITUTION OF INDIA
+
 (Part XVI.—Special Provisions relating to certain
 Classes.—Art. 338.)
 (8) The Commission shall, while investigating any
@@ -9706,10 +9659,10 @@ s. 2 (w.e.f. 12-3-1992).
 National
 Commission for
 Scheduled Tribes.
-THE CONSTITUTION OF INDIA
+
 (Part XVI.—Special Provisions relating to certain
 Classes.—Arts. 338-338A.)
-207
+
 Chairperson, Vice-Chairperson and other Members so
 appointed shall be such as the President by rule
 determine.
@@ -9749,8 +9702,7 @@ Parliament, by rule specify.
 (6) The President shall cause all such reports to be
 laid before each House of Parliament along with a
 memorandum explaining the action taken or proposed
-208
-THE CONSTITUTION OF INDIA
+
 (Part XVI.—Special Provisions relating to certain
 Classes.—Art. 338A.)
 to be taken on the recommendations relating to the Union
@@ -9798,10 +9750,10 @@ and the welfare of
 Scheduled Tribes.
 1The words and letters “specified in Part A and Part B of the First Schedule” omitted by
 the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch.
-THE CONSTITUTION OF INDIA
+
 (Part XVI.—Special Provisions relating to certain
 Classes.—Arts. 338A-339.)
-209
+
 The order may define the composition, powers and
 procedure of the Commission and may contain such
 incidental or ancillary provisions as the President may
@@ -9842,14 +9794,13 @@ backward classes.
 Scheduled Castes.
 1Subs by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch., for “any such
 State”.
-2Subs. by the Constitution (First Amendment) Act, 1951, s. 10, for “may, after consultation
+
 with the Governor or Rajpramukh of a State”.
 3Ins. by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch.
 4The words and letters “specified in Part A or Part B of the First Schedule” omitted by
 s. 29 and Sch., ibid.
 5The words “or Rajpramukh” omitted by s. 29 and Sch., ibid.
-210
-THE CONSTITUTION OF INDIA
+
 (Part XVI.—Special Provisions relating to certain
 Classes.—Arts. 339—341.)
 public notification1, specify the castes, races or tribes or
@@ -9886,7 +9837,7 @@ Castes Order, 1964 (C.O. 68), the Constitution (Goa, Daman and Diu) Scheduled Ca
 Order, 1968 (C.O. 81) and the Constitution (Sikkim) Scheduled Castes Order, 1978 (C.O.
 110).
 2Ins. by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch.
-3Subs. by the Constitution (First Amendment) Act, 1951, s. 11, for “may, after consultation
+
 with the Governor or Rajpramukh of a State,”.
 4The words and letters “Specified in Part A or Part B of the First Schedule” omitted by
 the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch.
@@ -9898,10 +9849,10 @@ Nagar Haveli) Scheduled Tribes Order, 1962 (C.O. 65), the Constitution (Schedule
 (Uttar Pradesh) Order, 1967 (C.O. 78), the Constitution (Goa, Daman and Diu) Scheduled
 Tribes Order, 1968 (C.O. 82), the Constitution (Nagaland) Scheduled Tribes Order, 1970
 (C.O. 88) and the Constitution (Sikkim) Scheduled Tribes Order, 1978 (C.O. 111).
-THE CONSTITUTION OF INDIA
+
 (Part XVI.—Special Provisions relating to certain
 Classes.—Arts. 341-342.)
-211
+
 PART XVII
 OFFICIAL LANGUAGE
 CHAPTER I.—LANGUAGE OF THE UNION
@@ -9935,7 +9886,7 @@ commencement, by order constitute a Commission which
 shall consist of a Chairman and such other members
 representing the different languages specified in the Eighth
 Schedule as the President may appoint, and the order
-212
+
 1See C.O. 41.
 Official language
 of the Union.
@@ -9978,9 +9929,9 @@ transferable vote.
 the recommendations of the Commission constituted
 under clause (1) and to report to the President their
 opinion thereon.
-THE CONSTITUTION OF INDIA
+
 (Part XVII.—Official Language.—Art. 344.)
-213
+
 (6) Notwithstanding anything in article 343, the
 President may, after consideration of the report referred
 to in clause (5), issue directions in accordance with the
@@ -10038,9 +9989,9 @@ relating to language
 spoken by a section
 of the population
 of a State.
-THE CONSTITUTION OF INDIA
+
 (Part XVII.—Official Language.—Arts. 344—348.)
-214
+
 (b) the authoritative texts—
 (i) of all Bills to be introduced or amendments
 thereto to be moved in either House of Parliament
@@ -10077,9 +10028,9 @@ to be the authoritative text thereof in the English language
 under this article.
 1The words “or Rajpramukh” omitted by the Constitution (Seventh Amendment) Act,
 1956, s. 29 and Sch.
-THE CONSTITUTION OF INDIA
+
 (Part XVII.—Official Language.—Art. 348.)
-215
+
 349. During the period of fifteen years from the
 commencement of this Constitution, no Bill or amendment
 making provision for the language to be used for any of
@@ -10138,9 +10089,9 @@ Directive for
 development of the
 Hindi language.
 1Ins. by the Constitution (Seventh Amendment) Act, 1956, s. 21.
-THE CONSTITUTION OF INDIA
+
 (Part XVII.—Official Language.—Arts. 349—351.)
-216
+
 serve as a medium of expression for all the elements of
 the composite culture of India and to secure its
 enrichment by assimilating without interfering with its
@@ -10149,9 +10100,9 @@ Hindustani and in the other languages of India specified
 in the Eighth Schedule, and by drawing, wherever
 necessary or desirable, for its vocabulary, primarily on
 Sanskrit and secondarily on other languages.
-THE CONSTITUTION OF INDIA
+
 (Part XVII.—Official Language.—Art. 351.)
-217
+
 PART XVIII
 EMERGENCY PROVISIONS
 352. (1) If the President is satisfied that a grave
@@ -10184,7 +10135,7 @@ Proclamation, cease to operate at the expiration of one
 month unless before the expiration of that period it has
 been approved by resolutions of both Houses of
 Parliament:
-218
+
 Proclamation of
 Emergency.
 1Subs by the Constitution (Forty-fourth Amendment) Act, 1978, s. 37, for “internal
@@ -10231,9 +10182,9 @@ People first sits after its reconstitution unless before the
 expiration of the said period of thirty days, a resolution
 approving the continuance in force of the Proclamation
 has been also passed by the House of the People.
-THE CONSTITUTION OF INDIA
+
 (Part XVIII.—Emergency Provisions.—Art. 352.)
-219
+
 (6) For the purposes of clauses (4) and (5), a resolution
 may be passed by either House of Parliament only by a
 majority of the total membership of that House and by a
@@ -10271,11 +10222,11 @@ operation.
 1Ins. by the Constitution (Thirty-eighth Amendment) Act, 1975, s. 5 (retrospectively).
 2Cl. (4) re-numbered as cl. (9) by the Constitution (Forty-fourth Amendment) Act, 1978,
 s. 37 (w.e.f 20-6-1979).
-3Subs. by s. 37, ibid., for “internal disturbance” (w.e.f 20-6-1979).
+
 4Cl. (5) omitted by s. 37, ibid. (w.e.f. 20-6-1979).
-THE CONSTITUTION OF INDIA
+
 (Part XVIII.—Emergency Provisions.—Art. 352.)
-220
+
 353. While a Proclamation of Emergency is in
 operation, then—
 (a) notwithstanding anything in this Constitution,
@@ -10322,9 +10273,9 @@ Proclamation of
 Emergency is in
 operation.
 1Ins. by the Constitution (Forty-second Amendment) Act 1976, s. 49 (w.e.f. 3-1-1977).
-THE CONSTITUTION OF INDIA
+
 (Part XVIII.—Emergency Provisions.—Arts. 353-354.)
-221
+
 (2) Every order made under clause (1) shall, as soon
 as may be after it is made, be laid before each House of
 Parliament.
@@ -10372,9 +10323,9 @@ States.
 1The words “or Rajpramukh“ omitted by the Constitution (Seventh Amendment) Act,
 1956, s. 29 and Sch.
 2The words “or Rajpramukh, as the case may be” omitted by s. 29 and Sch., ibid.
-THE CONSTITUTION OF INDIA
+
 (Part XVIII.—Emergency Provisions.—Arts. 354—356.)
-222
+
 (2) Any such Proclamation may be revoked or varied
 by a subsequent Proclamation.
 (3) Every Proclamation under this article shall be
@@ -10407,17 +10358,17 @@ the continuance in force of such a Proclamation is passed
 by both Houses of Parliament, the Proclamation shall, unless
 revoked, continue in force for a further period of
 2[six months] from the date on which under this clause it
-1Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 38, for “one year
+
 from the date of the passing of the second of the resolutions approving the Proclamation
 under clause (3)” (w.e.f. 20-6-1979). The words “one year” were subs. for the original words
 “six months” by the Constitution (Forty-second Amendment) Act, 1976, s. 50 (w.e.f.
 3-1-1977).
-2Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 38, for “one year”
+
 (w.e.f. 20-6-1979). The words “one year” were subs. for the original words “six months” by
 the Constitution (Forty-second Amendment) Act, 1976, s. 50 (w.e.f. 3-1-1977).
-THE CONSTITUTION OF INDIA
+
 (Part XVIII.—Emergency Provisions.—Art. 356.)
-223
+
 would otherwise have ceased to operate, but no such
 Proclamation shall in any case remain in force for more
 than three years:
@@ -10449,7 +10400,7 @@ House of Parliament unless—
 in the whole of India or, as the case may be, in the
 whole or any part of the State, at the time of the
 passing of such resolution, and
-1Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 38, for “one year“
+
 (w.e.f. 20-6-1979). The words “one year” were subs. for the original words “six months” by
 the Constitution (Forty-second Amendment) Act, 1976, s. 50 (w.e.f. 3-1-1977).
 2Ins. by the Constitution (Sixty-fourth Amendment) Act, 1990, s. 2.
@@ -10458,9 +10409,9 @@ the Constitution (Sixty-eighth Amendment) Act, 1991, s. 2 to read as above.
 4Subs by the Constitution (Forty-fourth Amendment) Act, 1978, s. 38, for cl. (5) (w.e.f.
 20-6-1979). Cl. (5) was ins. by the Constitution (Thirty-eighth Amendment) Act, 1975, s. 6
 (retrospectively).
-THE CONSTITUTION OF INDIA
+
 (Part XVIII.—Emergency Provisions.—Art. 356.)
-224
+
 (b) the Election Commission certifies that the
 continuance in force of the Proclamation approved
 under clause (3) during the period specified in such
@@ -10501,11 +10452,11 @@ issued under article
 356.
 1Omitted by the Constitution (Sixty-third Amendment) Act, 1989, s. 2 (w.e.f. 6-1-1990).
 Ins. by the Constitution (Sixty-fourth Amendment) Act, 1990, s. 2.
-2Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 51, for cl. (2)
+
 (w.e.f. 3-1-1977).
-THE CONSTITUTION OF INDIA
+
 (Part XVIII.—Emergency Provisions.—Arts. 356-357.)
-225
+
 which Parliament or the President or such other authority
 would not, but for the issue of a Proclamation under
 article 356, have been competent to make shall, after the
@@ -10543,15 +10494,15 @@ article 19 during
 emergencies.
 1Art. 358 re-numbered as cl. (1) thereof by by the Constitution (Forty-fourth Amendment)
 Act, 1978, s. 39 (w.e.f. 20-6-1979).
-2Subs. by s. 39, ibid., for “While a Proclamation of Emergency is in operation” (w.e.f.
+
 20-6-1979).
 3Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 52 (w.e.f. 3-1-1977).
 4 Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 39, for “where a
 Proclamation of Emergency” (w.e.f. 20-6-1979).
 5Ins. by s. 39, ibid. (w.e.f. 20-6-1979).
-THE CONSTITUTION OF INDIA
+
 (Part XVIII.—Emergency Provisions.—Arts. 357-358.)
-226
+
 Suspension of the
 enforcement of the
 rights conferred by
@@ -10592,13 +10543,13 @@ and in so far as the security of India or any part of the
 territory thereof is threatened by activities in or in
 relation to the part of the territory of India in which the
 Proclamation of Emergency is in operation.]
-1Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 40, for “the rights
+
 conferred by Part III” (w.e.f. 20-6-1979).
 2Ins. by the Constitution (Thirty-eighth Amendment) Act, 1975, s. 7 (retrospectively).
 3Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 53 (w.e.f. 3-1-1977).
-THE CONSTITUTION OF INDIA
+
 (Part XVIII.—Emergency Provisions.—Arts. 358-359.)
-227
+
 1[(1B) Nothing in clause (1A) shall apply—
 (a) to any law which does not contain a recital to
 the effect that such law is in relation to the
@@ -10638,11 +10589,11 @@ emergency.
 3Ins. by the Constitution (Fifty-ninth Amendment) Act, 1988, s. 3. It shall cease to
 operate on the expiry of a period of two years from the commencement of this Act, i.e.,
 thirtieth day of March, 1988.
-4Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 41, for cl. (2) (w.e.f.
+
 20-6-1979).
-THE CONSTITUTION OF INDIA
+
 (Part XVIII.—Emergency Provisions.—Arts. 359—360.)
-228
+
 (b) shall be laid before each House of Parliament;
 (c) shall cease to operate at the expiration of two
 months, unless before the expiration of that period
@@ -10680,9 +10631,9 @@ other Bills to which the provisions of article 207
 apply to be reserved for the consideration of the
 President after they are passed by the Legislature
 of the State;
-THE CONSTITUTION OF INDIA
+
 (Part XVIII.—Emergency Provisions.—Art. 360.)
-229
+
 (b) it shall be competent for the President during
 the period any Proclamation issued under this article
 is in operation to issue directions for the reduction of
@@ -10694,9 +10645,9 @@ High Courts.
 1Cl. (5) was ins. by the Constitution (Thirty-eighth Amendment) Act, 1975, s. 8
 (retrospectively) and omitted by the Constitution (Forty-fourth Amendment) Act, 1978,
 s. 41 (w.e.f. 20-6-1979).
-THE CONSTITUTION OF INDIA
+
 (Part XVIII.—Emergency Provisions.—Art. 360.)
-230
+
 PART XIX
 MISCELLANEOUS
 361. (1) The President, or the Governor or
@@ -10731,7 +10682,7 @@ after notice in writing has been delivered to the President
 or the Governor 2***, as the case may be, or left at his
 office stating the nature of the proceedings, the cause of
 action therefor, the name, description and place of
-231
+
 Protection of
 President and
 Governors and
@@ -10786,9 +10737,9 @@ political post.
 1Ins. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 42 (w.e.f.
 20-6-1979).
 2Ins. by the Constitution (Ninety-first Amendment) Act, 2003, s. 4.
-THE CONSTITUTION OF INDIA
+
 (Part XIX.—Miscellaneous.—Arts. 361—361B.)
-232
+
 (b) the expression “remunerative political post”
 means any office—
 (i) under the Government of India or the
@@ -10838,9 +10789,9 @@ disputes arising
 out of certain
 treaties,
 agreements, etc.
-THE CONSTITUTION OF INDIA
+
 (Part XIX.—Miscellaneous.—Arts. 361B—363.)
-233
+
 1[363A. Notwithstanding anything in this
 Constitution or in any law for the time being in force—
 (a) the Prince, Chief or other person who, at any
@@ -10893,9 +10844,9 @@ be abolished.
 Special provisions
 as to major ports
 and aerodromes.
-THE CONSTITUTION OF INDIA
+
 (Part XIX.—Miscellaneous.—Arts. 363A-364.)
-234
+
 365. Where any State has failed to comply with, or to
 give effect to, any directions given in the exercise of the
 executive power of the Union under any of the provisions
@@ -10943,9 +10894,9 @@ to, directions
 given by the
 Union.
 Definitions.
-THE CONSTITUTION OF INDIA
+
 (Part XIX.—Miscellaneous.—Arts. 365-366.)
-235
+
 1Cl. (4A) was ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 54
 (w.e.f. 1-2-1977) and omitted by the Constitution (Forty-third Amendment) Act, 1977, s. 11
 (w.e.f. 13-4-1978).
@@ -10992,9 +10943,9 @@ High Court for any State and includes—
 (a) any Court in the territory of India
 constituted or reconstituted under this Constitution
 as a High Court, and
-THE CONSTITUTION OF INDIA
+
 (Part XIX.—Miscellaneous.—Art. 366.)
-236
+
 (b) any other Court in the territory of India
 which may be declared by Parliament by law to
 be a High Court for all or any of the purposes of
@@ -11034,10 +10985,9 @@ Constitution;
 (24) “Scheduled Castes” means such castes, races
 or tribes or parts of or groups within such castes,
 1Cl. (21) omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch.
-2Subs. by the Constitution (Twenty-sixth Amendment) Act, 1971, s. 4, for cl. (22).
-THE CONSTITUTION OF INDIA
+
 (Part XIX.—Miscellaneous.—Art. 366.)
-237
+
 races or tribes as are deemed under article 341 to be
 Scheduled Castes for the purposes of this
 Constitution;
@@ -11079,9 +11029,9 @@ or other valuable consideration;
 (w.e.f. 1-2-1977) and omitted by the Constitution (Forty-third Amendment) Act, 1977, s. 11
 (w.e.f. 13-4-1978).
 2Ins. by the Constitution (Forty-sixth Amendment) Act, 1982, s. 4.
-THE CONSTITUTION OF INDIA
+
 (Part XIX.—Miscellaneous.—Art. 366.)
-238
+
 (f) a tax on the supply, by way of or as part
 of any service or in any other manner
 whatsoever, of goods, being food or any other
@@ -11117,14 +11067,14 @@ made by Parliament, the President may by order4 declare
 any State not to be a foreign State for such purposes as
 may be specified in the order.
 Interpretation.
-1Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch., for cl. (30).
+
 2The words and letters “specified in Part A or Part B of the First Schedule” omitted by
 s. 29 and Sch., ibid.
 3The words “or Rajpramukh “ omitted by s. 29 and Sch., ibid.
 4See the Constitution (Declaration as to Foreign States) Order, 1950 (C.O. 2).
-THE CONSTITUTION OF INDIA
+
 (Part XIX.—Miscellaneous.—Arts. 366-367.)
-239
+
 PART XX
 AMENDMENT OF THE CONSTITUTION
 368. 
@@ -11154,18 +11104,18 @@ Chapter I of Part XI, or
 the amendment shall also require to be ratified by the
 Legislatures of not less than one-half of the States 5*** by
 resolutions to that effect passed by those Legislatures
-240
+
 1[Power of
 Parliament to
 amend the
 Constitution and
 procedure
 therefor.]
-1Subs. by the Constitution (Twenty-fourth Amendment) Act, 1971, s. 3, for “Procedure
+
 for the amendment of the Constitution”.
 2Ins. by s. 3, ibid.
 3Art. 368 renumbered as cl. (2) thereof by s. 3, ibid.
-4Subs. by s. 3, ibid., for “it shall be presented to the President for his assent and upon
+
 such assent being given to the Bill,”.
 5The words and letters “specified in Parts A and B of the First Schedule” omitted by the
 Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch.
@@ -11188,9 +11138,9 @@ Constitution under this article.]
 2Cls. (4) and (5) were ins. in article 368 by s. 55 of the Constitution (Forty-second
 Amendment) Act, 1976. This section has been declared invalid by the Supreme Court in
 Minerva Mills Ltd. and Others Vs. Union of India and Others (1980) 2 S.C.C. 591.
-THE CONSTITUTION OF INDIA
+
 (Part XX.—Amendment of the Constitution.—Art. 368.)
-241
+
 PART XXI
 1[TEMPORARY, TRANSITIONAL
 AND SPECIAL PROVISIONS]
@@ -11221,7 +11171,7 @@ been competent to make, shall, to the extent of the
 incompetency, cease to have effect on the expiration of
 the said period, except as respects things done or
 omitted to be done before the expiration thereof.
-242
+
 Temporary power
 to Parliament to
 make laws with
@@ -11230,7 +11180,7 @@ matters in the State
 List as if they were
 matters in the
 Concurrent List.
-1Subs. by the Constitution (Thirteenth Amendment) Act, 1962, s. 2, for “TEMPORARY
+
 AND TRANSITIONAL PROVISIONS” (w.e.f. 1-12-1963).
 1[370. (1) Notwithstanding anything in this
 Constitution,—
@@ -11274,11 +11224,10 @@ the person for the time being recognised by the President on the recommendation 
 Legislative Assembly of the State as the *Sadar-I-Riyasat of Jammu and Kashmir,
 acting on the advice of the Council of Ministers of the State for the time being in office.”.
 (Ministry of Law Order No. C.O. 44, dated the 15th November, 1952).
-*Now “Governor”.
-THE CONSTITUTION OF INDIA
+
 (Part XXI.—Temporary, Transitional and Special
 Provisions.—Art. 370.)
-243
+
 exceptions and modifications as the President may
 by order1 specify:
 Provided that no such order which relates to the
@@ -11310,16 +11259,16 @@ necessary before the President issues such a notification.
 the President may by order made with respect to 5[the
 1See the Constitution (Application to Jammu and Kashmir) Order, 1954 (C.O. 48) as
 amended from time to time, in Appendix I.
-2Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 22, for art. 371.
+
 3Cl. (1) omitted by the Constitution (Thirty-second Amendment) Act, 1973, s. 2, (w.e.f.
 1-7-1974).
 4The words “Andhra Pradesh,” omitted by s. 2, ibid. (w.e.f. 1-7-1974).
-5Subs. by the Bombay Reorganisation Act, 1960 (11 of 1960), s. 85, for “the State of
+
 Bombay” (w.e.f. 1-5-1960).
-THE CONSTITUTION OF INDIA
+
 (Part XXI.—Temporary, Transitional and Special
 Provisions.—Arts. 370-371.)
-244
+
 Special provision
 with respect to
 the States of 4***
@@ -11361,13 +11310,13 @@ responsibility with respect to law and order in the
 Special provision
 with respect to the
 State of Nagaland.
-1Subs. by the Bombay Reorganisation Act, 1960 (11 of 1960), s. 85, for “the rest of
+
 Maharashtra,” (w.e.f. 1-5-1960).
 2Ins. by the Constitution (Thirteenth Amendment) Act, 1962, s. 2 (w.e.f. 1-12-1963).
-THE CONSTITUTION OF INDIA
+
 (Part XXI.—Temporary, Transitional and Special
 Provisions.—Arts. 371-371A.)
-245
+
 State of Nagaland for so long as in his opinion internal
 disturbances occurring in the Naga Hills-Tuensang
 Area immediately before the formation of that State
@@ -11409,10 +11358,10 @@ make rules providing for—
 (i) the composition of the regional council and
 the manner in which the members of the regional
 council shall be chosen:
-THE CONSTITUTION OF INDIA
+
 (Part XXI.—Temporary, Transitional and Special
 Provisions.—Art. 371A.)
-246
+
 Provided that the Deputy Commissioner of the
 Tuensang district shall be the Chairman ex officio
 of the regional council and the Vice-Chairman of
@@ -11446,10 +11395,10 @@ as a whole, the Governor shall in his discretion
 arrange for an equitable allocation of that money
 between the Tuensang district and the rest of the
 State;
-THE CONSTITUTION OF INDIA
+
 (Part XXI.—Temporary, Transitional and Special
 Provisions.—Art. 371A.)
-247
+
 (c) no Act of the Legislature of Nagaland shall
 apply to Tuensang district unless the Governor, on
 the recommendation of the regional council, by public
@@ -11482,16 +11431,16 @@ all matters relating to the Tuensang district but he
 shall keep the Chief Minister informed about the
 same;
 1Paragraph 2 of the Constitution (Removal of Difficulties) Order No. X provides (w.e.f.
-1-12-1963) that article 371A of the Constitution of India Shall have effect as if the following
+1-12-1963) that article 371A of  Shall have effect as if the following
 Proviso were added to paragraph (i) of sub-clause (e) of clause (2) thereof, namely:—
 “Provided that the Governor may, on the advice of the Chief Minister, appoint any
 person as Minister for Tuensang affairs to act as such until such time as persons are
 chosen in accordance with law to fill the seats allocated to the Tuensang district in the
 Legislative Assembly of Nagaland.”.
-THE CONSTITUTION OF INDIA
+
 (Part XXI.—Temporary, Transitional and Special
 Provisions.—Art. 371A.)
-248
+
 (f) notwithstanding anything in the foregoing
 provisions of this clause, the final decision on all
 matters relating to the Tuensang district shall be
@@ -11531,10 +11480,10 @@ the
 Kohima,
 Mokokchung and Tuensang districts shall have the same
 meanings as in the State of Nagaland Act, 1962.]
-THE CONSTITUTION OF INDIA
+
 (Part XXI.—Temporary, Transitional and Special
 Provisions.—Art. 371A.)
-249
+
 1[371B. 
 Notwithstanding 
 anything 
@@ -11580,14 +11529,14 @@ with respect to
 the State of
 Manipur.
 1Ins. by the Constitution (Twenty-second Amendment) Act, 1969, s. 4.
-2Subs. by the North-Eastern Areas (Reorganisation) Act, 1971 (81 of 1971), s. 71, for
+
 “Part A” (w.e.f. 21-1-1972).
 3Ins. by the Constitution (Twenty-seventh Amendment) Act, 1971, s. 5 (w.e.f.
 15-2-1972).
-THE CONSTITUTION OF INDIA
+
 (Part XXI.—Temporary, Transitional and Special
 Provisions.—Arts. 371B-371C.)
-250
+
 Special provisions
 with respect to the
 State of Andhra
@@ -11629,10 +11578,10 @@ reservation shall be given or made—
 any such cadre referred to in sub-clause (b) as may
 be specified in this behalf in the order;
 1 Ins. by the Constitution (Thirty-second Amendment) Act, 1973, s. 3 (w.e.f. 1-7-1974).
-THE CONSTITUTION OF INDIA
+
 (Part XXI.—Temporary, Transitional and Special
 Provisions.—Art. 371D.)
-251
+
 (ii) in the matter of admission to any such
 University or other educational institution referred
 to in sub-clause (b) as may be specified in this
@@ -11671,10 +11620,10 @@ such class or classes of civil posts under the State or
 to such class or classes of posts under the control of
 any local authority within the State, as may be
 specified in the order.
-THE CONSTITUTION OF INDIA
+
 (Part XXI.—Temporary, Transitional and Special
 Provisions.—Art. 371D.)
-252
+
 (4) An order made under clause (3) may—
 (a) authorise the Administrative Tribunal to
 receive representations for the redress of grievances
@@ -11711,10 +11660,10 @@ order made in writing and for reasons to be specified
 1In P. Sambamurthy and others vs. State of Andhara Pradesh and another (1987) 1 SCC,
 p. 362, the Supreme Court declared cl. (5) of art. 371D along with the proviso to be
 unconstitutional and void.
-THE CONSTITUTION OF INDIA
+
 (Part XXI.—Temporary, Transitional and Special
 Provisions.—Art. 371D.)
-253
+
 therein, modify or annul any order of the Administrative
 Tribunal before it becomes effective and in such a case,
 the order of the Administrative Tribunal shall have effect
@@ -11751,10 +11700,10 @@ Constitution (Thirty-second Amendment) Act,
 1973, to any post under the Government of, or
 any local or other authority within, the State of
 Andhra Pradesh; and
-THE CONSTITUTION OF INDIA
+
 (Part XXI.—Temporary, Transitional and Special
 Provisions.—Art. 371D.)
-254
+
 (b) no action taken or thing done by or before any
 person referred to in sub-clause (a),
 shall be deemed to be illegal or void or ever to have
@@ -11799,10 +11748,10 @@ Special provisions
 with respect to the
 State of Sikkim.
 1Ins. by the Constitution (Thirty-sixth Amendment) Act, 1975, s. 3 (w.e.f. 26-4-1975).
-THE CONSTITUTION OF INDIA
+
 (Part XXI.—Temporary, Transitional and Special
 Provisions.—Arts. 371D—371F.)
-255
+
 (ii) the sitting members shall be deemed to be
 the members of the Legislative Assembly of the
 State of Sikkim duly elected under this
@@ -11835,16 +11784,16 @@ number of seats in the Legislative Assembly of the
 State of Sikkim which may be filled by candidates
 belonging to such sections and for the delimitation
 of the assembly constituencies from which candidates
-1Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 43, for “six years”
+
 (w.e.f. 6-9-1979). The words “six years” were subs. for the original words “five years” by the
 Constitution (Forty-second Amendment) Act, 1976, s. 56 (w.e.f. 3-1-1977).
-2Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 43, for “five years”
+
 (w.e.f. 6-9-1979). The words “five years” were subs. for the original words “four years” by
 the Constitution (Forty-second Amendment) Act, 1976, s. 56 (w.e.f. 3-1-1977).
-THE CONSTITUTION OF INDIA
+
 (Part XXI.—Temporary, Transitional and Special
 Provisions.—Art. 371F.)
-256
+
 belonging to such sections alone may stand for
 election to the Legislative Assembly of the State of
 Sikkim;
@@ -11881,10 +11830,10 @@ State of Sikkim or any part thereof shall continue
 to be in force therein until amended or repealed by
 a competent Legislature or other competent
 authority;
-THE CONSTITUTION OF INDIA
+
 (Part XXI.—Temporary, Transitional and Special
 Provisions.—Art. 371F.)
-257
+
 (l) for the purpose of facilitating the application
 of any such law as is referred to in clause (k) in
 relation to the administration of the State of Sikkim
@@ -11922,10 +11871,10 @@ removing that difficulty:
 Provided that no such order shall be made after
 the expiry of two years from the appointed day;
 1See the Constitution (Removal of Difficulties) Order No. XI (C.O. 99).
-THE CONSTITUTION OF INDIA
+
 (Part XXI.—Temporary, Transitional and Special
 Provisions.—Art. 371F.)
-258
+
 (p) all things done and all actions taken in or in
 relation to the State of Sikkim or the territories
 comprised therein during the period commencing
@@ -11970,10 +11919,10 @@ State of Arunachal
 Pradesh.
 1Ins. by the Constitution (Fifty-third Amendment) Act, 1986, s. 2 (w.e.f. 20-2-1987).
 2Ins. by the Constitution (Fifty-fifth Amendment) Act, 1986, s. 2 (w.e.f. 20-2-1987).
-THE CONSTITUTION OF INDIA
+
 (Part XXI.—Temporary, Transitional and Special
 Provisions.—Arts. 371F—371H.)
-259
+
 in the State of Arunachal Pradesh and in the discharge
 of his functions in relation thereto, the Governor shall,
 after consulting the Council of Ministers, exercise his
@@ -12019,10 +11968,10 @@ force of existing
 laws and their
 adaptation.
 1Ins. by the Constitution (Fifty-sixth Amendment) Act, 1987, s. 2 (w.e.f. 30-5-1987).
-THE CONSTITUTION OF INDIA
+
 (Part XXI.—Temporary, Transitional and Special
 Provisions.—Arts. 371H—372.)
-260
+
 provisions of this Constitution, the President may by
 order1 make such adaptations and modifications of such
 law, whether by way of repeal or amendment, as may be
@@ -12062,11 +12011,10 @@ II, Section 3, p. 287, Notification No. S.R.O. 1140B, dated 2nd July, 1952, Gaze
 Extraordinary, Part II, Section 3, p. 616/I; and the Adaptation of the Travancore-Cochin
 Land Acquisition Laws Order, 1952, dated the 20th November, 1952, Gazette of India,
 Extraordinary, Part II, Section 3, p. 923.
-2Subs. by the Constitution (First Amendment) Act, 1951, s. 12, for “two years”.
-THE CONSTITUTION OF INDIA
+
 (Part XXI.—Temporary, Transitional and Special
 Provisions.—Art. 372.)
-261
+
 Explanation III.—Nothing in this article shall be
 construed as continuing any temporary law in force
 beyond the date fixed for its expiration or the date on
@@ -12117,10 +12065,10 @@ respect of persons
 under preventive
 detention in certain
 cases.
-THE CONSTITUTION OF INDIA
+
 (Part XXI.—Temporary, Transitional and Special
 Provisions.—Arts. 372—373.)
-262
+
 were substituted a reference to the President and for any
 reference to any law made by Parliament in those clauses
 there were substituted a reference to an order made by
@@ -12166,10 +12114,10 @@ pending in the
 Federal Court or
 before His Majesty
 in Council.
-THE CONSTITUTION OF INDIA
+
 (Part XXI.—Temporary, Transitional and Special
 Provisions.—Art. 373-374.)
-263
+
 First Schedule to entertain and dispose of appeals and
 petitions from or in respect of any judgment, decree or
 order of any court within that State shall cease, and all
@@ -12216,10 +12164,10 @@ Provisions as to
 Judges of High
 Courts.
 1Added by the by the Constitution (First Amendment) Act, 1951, s. 13.
-THE CONSTITUTION OF INDIA
+
 (Part XXI.—Temporary, Transitional and Special
 Provisions.—Arts. 374—376.)
-264
+
 (3) In this article, the expression “Judge” does not
 include an acting Judge or an additional Judge.
 377. The Auditor-General of India holding office
@@ -12268,10 +12216,10 @@ of India.
 Provisions as to
 Public Service
 Commissions.
-THE CONSTITUTION OF INDIA
+
 (Part XXI.—Temporary, Transitional and Special
 Provisions.—Art. 376—378.)
-265
+
 1[378A. Notwithstanding anything contained in article
 172, the Legislative Assembly of the State of Andhra
 Pradesh as constituted under the provisions of sections
@@ -12309,10 +12257,10 @@ Power of the
 President to
 remove difficulties.
 1Ins. by the Constitution (Seventh Amendment) Act, 1956, s. 24.
-THE CONSTITUTION OF INDIA
+
 (Part XXI.—Temporary, Transitional and Special
 Provisions.—Art. 378A—392.)
-266
+
 PART XXII
 SHORT TITLE, COMMENCEMENT 1[, AUTHORI-
 TATIVE TEXT IN HINDI] AND REPEALS
@@ -12345,7 +12293,7 @@ part of such translation, the President shall cause the
 same to be revised suitably.
 (3) The translation of this Constitution and of every
 amendment thereof published under this article shall be
-267
+
 Short title.
 Commencement.
 Authoritative text
@@ -12361,7 +12309,6 @@ enactments amending or supplementing the latter Act,
 but not including the Abolition of Privy Council
 Jurisdiction Act, 1949, are hereby repealed.
 Repeals.
-THE CONSTITUTION OF INDIA
+
 (Part XXII.—Short Title, Commencement, Authoritative
 Text in Hindi and Repeals.—Arts. 394A-395.)
-268

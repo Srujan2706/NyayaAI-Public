@@ -44,16 +44,31 @@ for filename in os.listdir(input_folder):
                 current_chapter = chapter_match.group()
 
             # ---------- Section ----------
-            section_match = re.search(
+         
+            if law == "Constitution":
+
+                article_match = re.search(
+                    r'^\*?(\d+[A-Z]?)\.',
+                    text,
+                    re.MULTILINE
+                )
+
+                if article_match:
+                    section = f"Article {article_match.group(1)}"
+                else:
+                    section = "Unknown"
+
+            else:
+                section_match = re.search(
                 r'Section\s+(\d+)',
                 text,
                 re.IGNORECASE
-            )
+                )
 
-            if section_match:
-                section = section_match.group(1)
-            else:
-                section = "Unknown"
+                if section_match:
+                    section = f"Section {section_match.group(1)}"
+                else:
+                    section = "Unknown"
 
             # ---------- Title ----------
             lines = text.split("\n")
@@ -67,7 +82,10 @@ for filename in os.listdir(input_folder):
                 if line == "":
                     continue
 
-                if line.lower().startswith("section"):
+                if re.match(r'^\d+$', line):
+                    continue
+                
+                if line.lower().startswith(("section", "article")):
                     continue
 
                 if line.upper().startswith("CHAPTER"):

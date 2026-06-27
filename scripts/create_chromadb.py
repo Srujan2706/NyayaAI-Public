@@ -2,10 +2,8 @@ import os
 import json
 import chromadb
 
-# Create Chroma client
 client = chromadb.PersistentClient(path="vector_db/chroma_db")
 
-# Create collection
 collection = client.get_or_create_collection(
     name="legal_documents"
 )
@@ -23,37 +21,35 @@ for filename in os.listdir(input_folder):
         filepath = os.path.join(input_folder, filename)
 
         with open(filepath, "r", encoding="utf-8") as f:
-
             chunks = json.load(f)
+
+        print(f"Total chunks in {filename}: {len(chunks)}")
+
+        added = 0
 
         for chunk in chunks:
 
-            collection.add(
+            try:
 
-                ids=[str(chunk["chunk_id"])],
-
-                embeddings=[chunk["embedding"]],
-
-                documents=[chunk["text"]],
-
-                metadatas=[
-
-                    {
-
+                collection.add(
+                    ids=[f"{chunk['law']}_{chunk['chunk_id']}"],
+                    embeddings=[chunk["embedding"]],
+                    documents=[chunk["text"]],
+                    metadatas=[{
                         "law": chunk["law"],
-
                         "section": str(chunk["section"]),
-
                         "chapter": chunk["chapter"],
-
                         "title": chunk["title"]
+                    }]
+                )
 
-                    }
+                added += 1
 
-                ]
+            except Exception as e:
+                print("Error:", e)
 
-            )
+        print(f"Inserted {added} chunks from {filename}\n")
 
-print("\n===============================")
-print("ChromaDB Created Successfully!")
-print("===============================")
+print("----------------------------------")
+print("Total documents in DB:", collection.count())
+print("----------------------------------")
