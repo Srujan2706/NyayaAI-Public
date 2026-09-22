@@ -1,0 +1,391 @@
+import json
+import logging
+import re
+from dataclasses import asdict, dataclass
+from pathlib import Path
+from typing import Any, Dict, List, Optional, Set, Tuple
+
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+
+from backend.utils.config import (
+    CHUNK_OVERLAP,
+    CHUNK_SIZE,
+    PERMANENT_CHUNKS,
+    PERMANENT_CLEANED,
+)
+
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+logger = logging.getLogger(__name__)
+
+
+@dataclass
+class SectionData:
+    """Dataclass to hold parent section data before chunking."""
+    parent_id: str
+    law: str
+    law_full_name: str
+    part: Optional[str]
+    chapter: Optional[str]
+    chapter_title: Optional[str]
+    section: str
+    title: str
+    text: str
+
+
+@dataclass
+class ChunkData:
+    """Dataclass to hold individual chunk data."""
+    chunk_id: int
+    parent_id: str
+    law: str
+    law_full_name: str
+    part: Optional[str]
+    chapter: Optional[str]
+    chapter_title: Optional[str]
+    section: str
+    title: str
+    chunk_no: int
+    total_chunks: int
+    text: str
+    char_count: int
+    word_count: int
+
+def detect_law(text: str, filename: str) -> tuple[str, str]:
+    """
+    Detect law ONLY from filename.
+    Never inspect the document text.
+    """
+
+    name = Path(filename).stem.upper()
+
+    if name.startswith("BNSS"):
+        return "BNSS", "Bharatiya Nagarik Suraksha Sanhita, 2023"
+
+    elif name.startswith("BNS"):
+        return "BNS", "Bharatiya Nyaya Sanhita, 2023"
+
+    elif name.startswith("BSA"):
+        return "BSA", "Bharatiya Sakshya Adhiniyam, 2023"
+
+    elif name.startswith("CONSTITUTION"):
+        return "Constitution", "Constitution of India"
+
+    return Path(filename).stem, Path(filename).stem
+
+
+def remove_table_of_contents(text: str) -> str:
+    """
+    Removes the 'Arrangement of Sections', Table of Contents, and Abbreviations.
+    Begins parsing ONLY from the actual Act body.
+    """
+    # 1. Locate "BE it enacted"
+    enacted_match = re.search(r'BE\s+it\s+enacted', text, re.IGNORECASE)
+    if enacted_match:
+        body_text = text[enacted_match.end():]
+        
+        # Find first occurrence of CHAPTER I or PART I from that position
+        chapter_match = re.search(r'^(?:CHAPTER\s+I|PART\s+I)\b', body_text, re.IGNORECASE | re.MULTILINE)
+        if chapter_match:
+            return body_text[chapter_match.start():]
+            
+        # If no Chapter/Part, find the first actual Section 1 or Article 1
+        sec1_match = re.search(r'^(?:Section|Article)?\s*1\.\s*[—\-–]?\s*', body_text, re.IGNORECASE | re.MULTILINE)
+        if sec1_match:
+            return body_text[sec1_match.start():]
+            
+        return body_text
+
+    # 2. Constitution specific check
+    const_match = re.search(r'WE,\s+THE\s+PEOPLE\s+OF\s+INDIA', text, re.IGNORECASE)
+    if const_match:
+        return text[const_match.start():]
+
+    # 3. Fallbacks if "BE it enacted" is absent
+    
+    # Second occurrence of CHAPTER I
+    chapter_matches = list(re.finditer(r'^CHAPTER\s+I\b', text, re.IGNORECASE | re.MULTILINE))
+    if len(chapter_matches) >= 2:
+        return text[chapter_matches[1].start():]
+        
+    # Second occurrence of PART I
+    part_matches = list(re.finditer(r'^PART\s+I\b', text, re.IGNORECASE | re.MULTILINE))
+    if len(part_matches) >= 2:
+        return text[part_matches[1].start():]
+        
+    # First occurrence of Section 1 after TOC
+    toc_match = re.search(r'ARRANGEMENT\s+OF\s+SECTIONS|CONTENTS', text, re.IGNORECASE)
+    if toc_match:
+        post_toc_text = text[toc_match.end():]
+        sec1_match = re.search(r'^(?:Section|Article)?\s*1\.\s*[—\-–]?\s*', post_toc_text, re.IGNORECASE | re.MULTILINE)
+        if sec1_match:
+            return post_toc_text[sec1_match.start():]
+
+    # If nothing matches, return original text
+    return text
+
+
+def extract_parent_sections(text: str, law: str, law_full_name: str) -> List[SectionData]:
+    """
+    Parses the hierarchy of the document (Part, Chapter, Section/Article, Title)
+    and extracts entire sections as parent documents.
+    """
+    sections: List[SectionData] = []
+    
+    current_part: Optional[str] = None
+    current_chapter: Optional[str] = None
+    current_chapter_title: Optional[str] = None
+    
+    current_sec_num: Optional[str] = None
+    current_sec_title: Optional[str] = None
+    current_sec_text: List[str] = []
+    
+    lines = text.split('\n')
+    
+    part_re = re.compile(r'^PART\s+([A-Z0-9IVXLCDM]+)(?:\s+(.*))?$', re.IGNORECASE)
+    chapter_re = re.compile(r'^CHAPTER\s+([A-Z0-9IVXLCDM]+)(?:\s+(.*))?$', re.IGNORECASE)
+    section_re = re.compile(r'^(?:Section|Article)?\s*(\d+[A-Z]{0,3})\.\s*[—\-–]?\s*(.*)$', re.IGNORECASE)
+    structural_re = re.compile(r'^(?:PART\s+[A-Z0-9IVXLCDM]+|CHAPTER\s+[A-Z0-9IVXLCDM]+|(?:Section|Article)?\s*\d+[A-Z]{0,3}\.)', re.IGNORECASE)
+    stop_re = re.compile(r'^(?:THE\s+)?(?:[A-Z]+\s+)?(?:SCHEDULE|APPENDIX|ANNEXURE)S?(?:\s|$)', re.IGNORECASE)
+    page_re = re.compile(r'^\d+$')
+    
+    expecting_chapter_title = False
+    expecting_part_title = False
+    
+    def save_current_section() -> None:
+        if current_sec_num:
+            sec_text_joined = "\n".join(current_sec_text).strip()
+            
+            # Normalize whitespace
+            sec_text_cleaned = re.sub(r'[ \t]+', ' ', sec_text_joined)
+            
+            # Normalize common OCR Unicode artifacts
+            sec_text_cleaned = (
+                sec_text_cleaned
+                .replace("â€”", "—")
+                .replace("â€“", "–")
+                .replace("â€˜", "'")
+                .replace("â€™", "'")
+            )
+            
+            clean_num = re.sub(r'[\s\-]+', '', current_sec_num).upper()
+            
+            if law == "Constitution":
+                parent_id = f"{law}_Article{clean_num}"
+                sec_label = f"Article {clean_num}"
+            else:
+                parent_id = f"{law}_{clean_num}"
+                sec_label = f"Section {clean_num}"
+                
+            sections.append(SectionData(
+                parent_id=parent_id,
+                law=law,
+                law_full_name=law_full_name,
+                part=current_part,
+                chapter=current_chapter,
+                chapter_title=current_chapter_title,
+                section=sec_label,
+                title=current_sec_title or "",
+                text=sec_text_cleaned
+            ))
+            
+    for line in lines:
+        clean_line = line.strip()
+        if not clean_line:
+            continue
+            
+        if stop_re.match(clean_line) or clean_line.upper() in ["SCHEDULE", "APPENDIX", "ANNEXURE"]:
+            break
+            
+        if page_re.match(clean_line):
+            continue
+            
+        if expecting_part_title:
+            expecting_part_title = False
+            if not structural_re.match(clean_line):
+                continue
+                
+        if expecting_chapter_title:
+            expecting_chapter_title = False
+            if not structural_re.match(clean_line):
+                current_chapter_title = clean_line
+                continue
+                
+        part_match = part_re.match(clean_line)
+        if part_match:
+            current_part = f"Part {part_match.group(1).upper()}"
+            if not part_match.group(2):
+                expecting_part_title = True
+            continue
+            
+        chapter_match = chapter_re.match(clean_line)
+        if chapter_match:
+            current_chapter = f"Chapter {chapter_match.group(1).upper()}"
+            inline_title = chapter_match.group(2)
+            if inline_title:
+                current_chapter_title = inline_title.strip()
+            else:
+                current_chapter_title = None
+                expecting_chapter_title = True
+            continue
+            
+        sec_match = section_re.match(clean_line)
+        if sec_match:
+            save_current_section()
+            current_sec_num = sec_match.group(1).upper()
+            current_sec_title = sec_match.group(2).strip()
+            current_sec_text = [clean_line]
+            continue
+            
+        if current_sec_num:
+            current_sec_text.append(clean_line)
+            
+    save_current_section()
+        
+    return sections
+
+
+def split_parent(section: SectionData) -> List[str]:
+    """
+    Splits the parent section text into chunks using Langchain's RecursiveCharacterTextSplitter.
+    Preserves clause boundaries and handles older versions gracefully.
+    """
+    kwargs = {
+        "chunk_size": CHUNK_SIZE,
+        "chunk_overlap": CHUNK_OVERLAP,
+        "separators": [
+            "\n\n",
+            "\n",
+            "\n(",
+            ". ",
+            "; ",
+            ": ",
+            ", ",
+            " ",
+            ""
+        ]
+    }
+    
+    try:
+        splitter = RecursiveCharacterTextSplitter(**kwargs, keep_separator=True)
+    except TypeError:
+        splitter = RecursiveCharacterTextSplitter(**kwargs)
+        
+    return splitter.split_text(section.text)
+
+
+def create_chunks(sections: List[SectionData]) -> List[ChunkData]:
+    """
+    Processes parent sections into a list of ChunkData objects.
+    Discards any chunks smaller than 120 characters.
+    """
+    chunks: List[ChunkData] = []
+    chunk_id_counter = 1
+    
+    for sec in sections:
+        split_texts = split_parent(sec)
+        valid_texts = [stext for stext in split_texts if len(stext) >= 120]
+        total = len(valid_texts)
+        
+        for i, stext in enumerate(valid_texts, 1):
+            chunk = ChunkData(
+                chunk_id=chunk_id_counter,
+                parent_id=sec.parent_id,
+                law=sec.law,
+                law_full_name=sec.law_full_name,
+                part=sec.part,
+                chapter=sec.chapter,
+                chapter_title=sec.chapter_title,
+                section=sec.section,
+                title=sec.title,
+                chunk_no=i,
+                total_chunks=total,
+                text=stext,
+                char_count=len(stext),
+                word_count=len(stext.split())
+            )
+            chunks.append(chunk)
+            chunk_id_counter += 1
+            
+    return chunks
+
+
+def parse_document(text: str, filename: str) -> List[SectionData]:
+    """
+    End-to-end parsing of a single document to generate parent sections.
+    """
+    law, law_full_name = detect_law(text, filename)
+    body_text = remove_table_of_contents(text)
+    return extract_parent_sections(body_text, law, law_full_name)
+
+
+def process_file(file_path: Path) -> List[ChunkData]:
+    """
+    Reads a file, parses it, chunks it, and returns the chunk list.
+    """
+    try:
+        with open(file_path, "r", encoding="utf-8") as f:
+            text = f.read()
+    except Exception as e:
+        logger.error(f"Failed to read file {file_path}: {e}")
+        return []
+
+    sections = parse_document(text, file_path.name)
+    print(f"{file_path.name}: {len(sections)} parent sections")
+    chunks = create_chunks(sections)
+    print(f"{file_path.name}: {len(chunks)} chunks")
+    return chunks
+    
+
+
+def run() -> None:
+    """
+    Main execution pipeline. Reads all cleaned texts, chunks them, and saves 
+    to dedicated JSON files per Act.
+    """
+    input_dir = Path(PERMANENT_CLEANED)
+    output_dir = Path(PERMANENT_CHUNKS)
+    output_dir.mkdir(parents=True, exist_ok=True)
+    
+    if not input_dir.exists():
+        logger.error(f"Input directory does not exist: {input_dir}")
+        return
+
+    law_to_chunks: Dict[str, List[ChunkData]] = {}
+    law_to_parents: Dict[str, Set[str]] = {}
+    
+    for file_path in input_dir.glob("*.txt"):
+        file_chunks = process_file(file_path)
+        if file_chunks:
+            print(file_path.name, "->", file_chunks[0].law)
+        else:
+            print(file_path.name, "-> NO CHUNKS")
+        for chunk in file_chunks:
+            if chunk.law not in law_to_chunks:
+                law_to_chunks[chunk.law] = []
+                law_to_parents[chunk.law] = set()
+                
+            law_to_chunks[chunk.law].append(chunk)
+            law_to_parents[chunk.law].add(chunk.parent_id)
+            
+    for law, chunks in law_to_chunks.items():
+        print("Detected laws:", list(law_to_chunks.keys()))
+        parent_count = len(law_to_parents[law])
+        chunk_count = len(chunks)
+        output_file = output_dir / f"{law}_chunks.json"
+        
+        logger.info(f"Processing {law}...")
+        logger.info(f"Parents : {parent_count}")
+        logger.info(f"Chunks : {chunk_count}")
+        
+        chunk_dicts = [asdict(c) for c in chunks]
+        
+        try:
+            with open(output_file, "w", encoding="utf-8") as f:
+                json.dump(chunk_dicts, f, indent=4, ensure_ascii=False)
+            logger.info(f"Saved : {output_file.name}")
+        except Exception as e:
+            logger.error(f"Failed to save {law} chunks to {output_file}: {e}")
+
+
+if __name__ == "__main__":
+    run()

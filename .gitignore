@@ -1,0 +1,35 @@
+﻿.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+.vscode/
+.ipynb_checkpoints/
+
+# Generated vector databases
+chroma_db/
+vector_db/
+
+# Generated embeddings / processed data
+data/processed/
+data/raw/permanent/
+
+# Temporary/generated files
+*.bin
+*.sqlite3
+*.pickle
+
+all_code.txt
+retrieval_all.txt
+project_tree.txt
+structure.txt
+chroma_db/
+vector_db/
+.venv/
+venv/
+__pycache__/
+.env
+*.bin
+*.sqlite3
+*.pickle
